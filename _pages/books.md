@@ -17,7 +17,7 @@ description: "The Harvest Home Guides book series — regional vegetable gardeni
           <span class="tag is-warning is-medium mb-2">Coming Soon</span>
           <h2 class="title is-3">Harvest Home Guides: Texas</h2>
           <p class="is-size-5">The complete vegetable gardening guide for Texas — from the Panhandle (Zone 6b) to the Rio Grande Valley (Zone 9b). Covers all major Texas growing regions with month-by-month planting calendars, heat-tolerant variety recommendations, water conservation strategies, and pest management for Texas-specific challenges.</p>
-          <div class="content mt-4">
+          <div class="content" markdown="1" mt-4">
             <h4>What's Inside:</h4>
             <ul>
               <li>Month-by-month planting guides for North, Central, South, and West Texas</li>

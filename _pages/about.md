@@ -11,7 +11,7 @@ description: "About Harvest Home Guides — why regional vegetable gardening mat
       <div class="column is-two-thirds">
         <h1 class="title is-2">About Harvest Home Guides</h1>
 
-        <div class="content is-medium">
+        <div class="content is-medium" markdown="1">
 
 ## The Problem with Generic Gardening Advice
 
