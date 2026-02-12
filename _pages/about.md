@@ -1,17 +1,9 @@
 ---
-layout: default
-title: "About"
+layout: page
+title: "About Harvest Home Guides"
 permalink: /about/
-description: "About Harvest Home Guides — why regional vegetable gardening matters and how our book series helps you grow more food with less guesswork."
+description: "About Harvest Home Guides — why regional vegetable gardening matters and how our 10-book series helps you grow more food with less guesswork."
 ---
-
-<section class="section">
-  <div class="container">
-    <div class="columns">
-      <div class="column is-two-thirds">
-        <h1 class="title is-2">About Harvest Home Guides</h1>
-
-        <div class="content is-medium" markdown="1">
 
 ## The Problem with Generic Gardening Advice
 
@@ -34,14 +26,20 @@ The United States spans USDA hardiness zones 1 through 13. A gardener in Houston
 
 ## The Series
 
-We're building a comprehensive library of regional vegetable gardening guides:
+Our complete library of 10 regional vegetable gardening guides:
 
-1. **Texas** (Coming Soon) — From Zone 6b in the Panhandle to Zone 9b in the Valley
-2. **Southeast** (Planned) — Humid heat, long seasons, double-cropping
-3. **Midwest** (Planned) — Short seasons, big harvests
-4. **Southwest** (Planned) — Desert gardening done right
-5. **Pacific Northwest** (Planned) — Year-round growing potential
-6. **Northeast** (Planned) — Cold-climate food production
+1. **Texas** — From Zone 6b in the Panhandle to Zone 9b in the Valley
+2. **Florida** — Year-round subtropical growing, hurricane prep, sandy soil solutions
+3. **Southeast** — Humid heat, long seasons, double-cropping
+4. **Midwest** — Short seasons, big harvests, cold frame techniques
+5. **Northeast** — Cold-climate food production, rocky soil strategies
+6. **Pacific Northwest** — Year-round growing potential, rain gardening
+7. **Southwest** — Desert gardening, extreme heat, monsoon planting
+8. **Northern California** — Mediterranean climate, microclimate mastery
+9. **Mountain West** — High altitude techniques, frost management
+10. **Great Plains** — Wind protection, extreme temperature swings
+
+[See all books →](/books/)
 
 ## Our Approach
 
@@ -58,16 +56,3 @@ Our [blog](/blog/) provides free vegetable gardening content targeted to specifi
 ## Get in Touch
 
 Have questions about the book series or want to suggest a topic for the blog? We'd love to hear from you at [hello@harvesthomeguides.com](mailto:hello@harvesthomeguides.com).
-
-        </div>
-      </div>
-      <div class="column is-one-third">
-        <div class="box has-background-success-light">
-          <h3 class="title is-5">📚 The Book Series</h3>
-          <p><strong>Harvest Home Guides: Texas</strong> is coming soon — the complete vegetable gardening guide for every Texas region.</p>
-          <a href="/books/" class="button is-primary-green is-small mt-3">See All Books</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
