@@ -1,0 +1,102 @@
+---
+layout: home
+title: "Home"
+permalink: /
+description: "Harvest Home Guides — regional vegetable gardening books and tips for every USDA zone. Grow the right vegetables at the right time."
+---
+
+<!-- Hero Section -->
+<section class="hero is-medium hero-garden">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h1 class="title is-1">Harvest Home Guides</h1>
+      <p class="subtitle is-4">Regional Vegetable Gardening for Every Zone</p>
+      <p class="is-size-5" style="color: #d8f3dc; max-width: 700px; margin: 0 auto 2rem;">
+        Stop guessing when to plant. Our region-specific guides give you month-by-month planting calendars, variety recommendations, and growing strategies tailored to your exact climate.
+      </p>
+      <div class="buttons is-centered">
+        <a href="/books/" class="button is-large is-white is-outlined">Browse the Book Series</a>
+        <a href="/blog/" class="button is-large is-success">Read the Blog</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Why Regional Matters -->
+<section class="section">
+  <div class="container">
+    <div class="columns is-vcentered">
+      <div class="column is-half">
+        <h2 class="title is-3">Why Regional Gardening?</h2>
+        <p class="is-size-5">Generic gardening advice wastes your time and kills your plants. A tomato planted in March in Texas needs completely different care than one planted in June in Vermont.</p>
+        <p class="mt-3">Harvest Home Guides are written for <strong>your specific region</strong> — with planting dates, soil strategies, pest management, and variety picks that actually work where you live.</p>
+      </div>
+      <div class="column is-half has-text-centered">
+        <div class="box has-background-success-light">
+          <p class="is-size-1">🌽🍅🫑</p>
+          <p class="title is-4 mt-3">Right Plant. Right Place. Right Time.</p>
+          <p>That's the difference between a harvest and a headache.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Book Series -->
+<section class="section" style="background-color: #f0ebe3;">
+  <div class="container">
+    <h2 class="title is-3 has-text-centered">The Book Series</h2>
+    <p class="has-text-centered mb-5 is-size-5">Comprehensive vegetable gardening guides tailored to each U.S. region.</p>
+    <div class="columns is-multiline is-centered">
+      <div class="column is-one-third">
+        <div class="box book-card coming-soon">
+          <span class="tag is-warning mb-2">Coming Soon</span>
+          <h3 class="title is-5">Harvest Home Guides: Texas</h3>
+          <p>From the Panhandle to the Rio Grande Valley — vegetables that thrive in every Texas climate zone.</p>
+          <a href="/books/" class="button is-primary-green is-small mt-3">Learn More</a>
+        </div>
+      </div>
+      <div class="column is-one-third">
+        <div class="box book-card planned">
+          <span class="tag is-light mb-2">Planned</span>
+          <h3 class="title is-5">Southeast</h3>
+          <p>Humid summers, mild winters — maximize your growing season across the Southeast.</p>
+        </div>
+      </div>
+      <div class="column is-one-third">
+        <div class="box book-card planned">
+          <span class="tag is-light mb-2">Planned</span>
+          <h3 class="title is-5">Midwest</h3>
+          <p>Short seasons, big harvests. Get the most out of every frost-free day.</p>
+        </div>
+      </div>
+    </div>
+    <div class="has-text-centered mt-4">
+      <a href="/books/" class="button is-primary-green">See All Planned Titles →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Latest Blog Posts -->
+<section class="section">
+  <div class="container">
+    <h2 class="title is-3 has-text-centered">Latest from the Blog</h2>
+    <p class="has-text-centered mb-5">Free vegetable gardening guides, planting calendars, and growing tips.</p>
+    <div class="columns is-multiline">
+      {% assign recent_posts = site.posts | slice: 0, 6 %}
+      {% for post in recent_posts %}
+      <div class="column is-one-third">
+        <div class="box" style="height: 100%;">
+          <time>{{ post.date | date: '%B %d, %Y' }}</time>
+          <h3 class="title is-5 mt-2"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+          <a href="{{ post.url }}" class="other-posts">Read More →</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="has-text-centered mt-4">
+      <a href="/blog/" class="button is-primary-green">View All Posts →</a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,72 @@
+---
+layout: default
+og_type: "article"
+---
+
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-two-thirds">
+        <article class="blog-post">
+          <header class="content">
+            <h1 class="title">{{ page.title }}</h1>
+            <p class="subtitle">{{ page.date | date: "%B %d, %Y" }}</p>
+          </header>
+          <section class="post-content content">
+            {{ content }}
+          </section>
+
+          {% include book-cta.html %}
+
+          <section class="section further-reading">
+            <div class="container">
+              <div class="columns is-mobile">
+                <div class="column">
+                  <div class="content is-thin">
+                    <h4>FURTHER READING</h4>
+                    {% if page.previous.url %}
+                      <div>
+                        <div class="other-posts">Previous Post</div>
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">
+                          <h5>{{ page.previous.title }}</h5>
+                        </a>
+                      </div>
+                    {% endif %}
+                    {% if page.next.url %}
+                      <div>
+                        <div class="other-posts">Next Post</div>
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">
+                          <h5>{{ page.next.title }}</h5>
+                        </a>
+                      </div>
+                    {% endif %}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </article>
+      </div>
+      <div class="column is-one-third">
+        <aside class="menu">
+          <div class="box has-background-success-light">
+            <h3 class="title is-5">🌱 Popular Guides</h3>
+            <ul>
+              {% assign recent = site.posts | slice: 0, 5 %}
+              {% for post in recent %}
+                {% unless post.url == page.url %}
+                <li><a href="{{ post.url }}">{{ post.title | truncate: 60 }}</a></li>
+                {% endunless %}
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="box">
+            <h3 class="title is-5">📚 Coming Soon</h3>
+            <p><strong>Harvest Home Guides: Texas</strong> — the complete vegetable gardening guide for every Texas region.</p>
+            <a href="/books/" class="button is-primary-green is-small mt-2">Learn More</a>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+</section>

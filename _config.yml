@@ -1,0 +1,110 @@
+# ----------------------------------------------
+# Site settings
+# ----------------------------------------------
+title: "Harvest Home Guides"
+email: hello@harvesthomeguides.com
+description: >
+  Regional vegetable gardening guides for every USDA zone. Grow the right vegetables at the right time with expert advice tailored to your climate.
+baseurl: ""
+url: "http://localhost:4000"
+
+excerpt_separator: <!--more-->
+permalink: /blog/:slug
+
+# ----------------------------------------------
+# Build settings
+# ----------------------------------------------
+markdown: kramdown
+
+exclude:
+  - vendor/
+  - node_modules/
+  - README.md
+  - Gemfile.lock
+
+include:
+  - _pages
+
+# ----------------------------------------------
+# Plugins
+# ----------------------------------------------
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+
+# ----------------------------------------------
+# Defaults
+# ----------------------------------------------
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/images/og_default.png"
+
+# ----------------------------------------------
+# SEO configuration
+# ----------------------------------------------
+seo:
+  site:
+    title: "Harvest Home Guides"
+    tagline: "Regional Vegetable Gardening for Every Zone"
+    name: "Harvest Home Guides"
+    description: "Expert vegetable gardening guides tailored to your USDA hardiness zone. Grow more food, waste less time."
+    url: "https://www.harvesthomeguides.com"
+    logo: "/assets/images/logo.png"
+
+# ----------------------------------------------
+# Pagination configuration
+# ----------------------------------------------
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: ''
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
+  extension: html
+
+# ----------------------------------------------
+# Book data
+# ----------------------------------------------
+books:
+  texas:
+    title: "Harvest Home Guides: Texas"
+    status: "coming-soon"
+    description: "The complete vegetable gardening guide for Texas — from the Panhandle to the Rio Grande Valley."
+  southeast:
+    title: "Harvest Home Guides: Southeast"
+    status: "planned"
+    description: "Vegetable gardening across the humid Southeast — Georgia, Alabama, Mississippi, the Carolinas, and more."
+  midwest:
+    title: "Harvest Home Guides: Midwest"
+    status: "planned"
+    description: "Short seasons, big harvests. Vegetable gardening for the heartland."
+  southwest:
+    title: "Harvest Home Guides: Southwest"
+    status: "planned"
+    description: "Desert gardening done right — vegetables that thrive in arid climates."
+  pacific_northwest:
+    title: "Harvest Home Guides: Pacific Northwest"
+    status: "planned"
+    description: "Year-round growing in the mild, rainy Pacific Northwest."
+  northeast:
+    title: "Harvest Home Guides: Northeast"
+    status: "planned"
+    description: "Making the most of short growing seasons in New England and the Mid-Atlantic."

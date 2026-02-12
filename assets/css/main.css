@@ -1,0 +1,180 @@
+/******************************
+  Harvest Home Guides — Custom CSS
+  Earthy garden theme: greens, browns, warm tones
+******************************/
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap');
+
+:root {
+  --forest-green: #2d6a4f;
+  --dark-green: #1b4332;
+  --light-green: #b7e4c7;
+  --pale-green: #d8f3dc;
+  --earth-brown: #6b4226;
+  --warm-brown: #8b5e3c;
+  --cream: #fefae0;
+  --warm-white: #faf9f6;
+  --soil: #3e2723;
+  --terracotta: #c4652e;
+}
+
+html {
+  font-family: 'Open Sans', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  border-top: 8px solid var(--forest-green);
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #1a1a1a;
+  text-align: left;
+  background-color: var(--warm-white);
+}
+
+h1, h2, h3, h4, h5, h6, .title {
+  font-family: 'Merriweather', Georgia, serif;
+}
+
+.button.is-primary-green {
+  background-color: var(--forest-green);
+  border-color: transparent;
+  color: #fff;
+}
+
+.button.is-primary-green:hover {
+  background-color: var(--dark-green);
+}
+
+/* Blog index */
+.blog-index section:first-of-type { padding: 3rem 1.5rem 1.5rem; }
+.blog-index section:not(:first-of-type) { padding: 0 1.5rem 1rem; }
+.blog-index section .container { padding-bottom: 1.5rem; border-bottom: solid #e8e5df 2px; }
+.blog-index section:last-of-type { padding: 1.5rem 1rem; }
+.blog-index section:last-of-type .container { border-bottom: none; }
+
+time {
+  text-transform: uppercase;
+  font-size: .75rem;
+  font-weight: 700;
+  color: #6b7280;
+}
+
+.content p:not(:last-child) { margin-bottom: 1.5rem; }
+
+a { color: var(--forest-green); }
+a:hover { color: var(--dark-green); }
+
+.has-text-primary {
+  color: var(--forest-green) !important;
+}
+
+.has-background-success-light {
+  background-color: var(--pale-green) !important;
+}
+
+/* Title styling */
+.title {
+  font-size: 1.5rem;
+  line-height: 1.25;
+  color: var(--soil);
+  letter-spacing: -.025em;
+}
+
+.other-posts {
+  font-weight: 600;
+  color: var(--warm-brown);
+  text-decoration: underline;
+}
+
+/* Hero section */
+.hero-garden {
+  background: linear-gradient(135deg, var(--dark-green) 0%, var(--forest-green) 50%, var(--warm-brown) 100%);
+  color: white;
+}
+
+.hero-garden .title,
+.hero-garden .subtitle {
+  color: white;
+}
+
+.hero-garden .subtitle {
+  color: var(--light-green);
+}
+
+/* Book cards */
+.book-card {
+  border-left: 4px solid var(--forest-green);
+  transition: transform 0.2s;
+}
+
+.book-card:hover {
+  transform: translateY(-2px);
+}
+
+.book-card.coming-soon {
+  border-left-color: var(--terracotta);
+}
+
+.book-card.planned {
+  border-left-color: #ccc;
+}
+
+/* Tag/badge styles */
+.tag.is-success { background-color: var(--forest-green); }
+.tag.is-warning { background-color: var(--terracotta); color: white; }
+
+/* Footer */
+.footer {
+  background-color: #f0ebe3 !important;
+}
+
+.footer a {
+  color: var(--forest-green);
+}
+
+/* Message box CTA */
+.message.is-success .message-body {
+  border-color: var(--forest-green);
+  background-color: var(--pale-green);
+  color: var(--soil);
+}
+
+/* Back to top button */
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: var(--forest-green);
+  color: white;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 50%;
+  font-size: 16px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+#myBtn.show {
+  display: block;
+  opacity: 0.8;
+}
+
+#myBtn:hover {
+  opacity: 1;
+  background-color: var(--dark-green);
+}
+
+/* Navbar */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .hero-garden .title { font-size: 1.75rem; }
+  .hero-garden .subtitle { font-size: 1rem; }
+}

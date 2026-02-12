@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="columns">
+  <div class="column is-two-thirds">
+    <div class="blog-index">
+      <h1 class="title">Vegetable Gardening Blog</h1>
+
+      {% assign filtered_posts = paginator.posts %}
+
+      {% for post in filtered_posts %}
+      <section class="section">
+        <div class="container">
+          <div class="columns">
+            <div class="column">
+              <div class="title-container">
+                <time>{{ post.date | date: '%B %d, %Y' }}</time>
+                <a href="{{ post.url }}"><h2 class="title">{{ post.title | truncate: 95 }}</h2></a>
+              </div>
+              <div class="content is-slim is-thin">
+                <p>{{ post.excerpt | strip_html | truncate: 500 }}</p>
+              </div>
+              <div class="content is-slim is-thin">
+                <a class="other-posts" href="{{ post.url }}">Continue Reading →</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {% endfor %}
+    </div>
+
+    {% if paginator.total_pages > 1 %}
+    <nav class="pagination is-centered" role="navigation" aria-label="pagination">
+      <ul class="pagination-list">
+        {% if paginator.page > 1 %}
+        <li><a href="{{ paginator.first_page_path | absolute_url }}" class="pagination-link">First</a></li>
+        {% endif %}
+        {% if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path | absolute_url }}" class="pagination-link">&larr; Newer</a></li>
+        {% endif %}
+        {% if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path | absolute_url }}" class="pagination-link">Older &rarr;</a></li>
+        {% endif %}
+        {% if paginator.page < paginator.total_pages %}
+        <li><a href="{{ paginator.last_page_path | absolute_url }}" class="pagination-link">Last</a></li>
+        {% endif %}
+      </ul>
+    </nav>
+    {% endif %}
+  </div>
+
+  <div class="column is-one-third">
+    <aside class="menu">
+      <div class="box has-background-success-light">
+        <h3 class="title is-5">🌱 Browse by Topic</h3>
+        <ul>
+          <li><a href="/blog/">All Posts</a></li>
+        </ul>
+      </div>
+      <div class="box">
+        <h3 class="title is-5">📚 Book Series</h3>
+        <p><strong>Harvest Home Guides: Texas</strong> is coming soon! Regional vegetable gardening, done right.</p>
+        <a href="/books/" class="button is-primary-green is-small mt-2">See All Books</a>
+      </div>
+    </aside>
+  </div>
+</div>
