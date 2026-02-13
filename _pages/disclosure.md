@@ -10,7 +10,7 @@ Welcome to HarvestHomeGuides.com. This Disclosure Policy provides transparency r
 
 #### Amazon Associate / Affiliate Disclosure
 
-HarvestHomeGuides.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you click on Amazon links on our site and make a purchase, we may earn a small commission at no additional cost to you.
+HarvestHomeGuides.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, EPM Labs, LLC earns from qualifying purchases. Product links on this site may be affiliate links. When you click on Amazon links on our site and make a purchase, we may earn a small commission at no additional cost to you.
 
 #### Book Sales
 
