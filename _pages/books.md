@@ -129,6 +129,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
         <span class="tag is-success">Zones 7–10</span>
         <span class="tag is-primary">Texas</span>
       </div>
+      <a href="https://www.amazon.com/s?k=Texas+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
     </div>
 
     <!-- Florida -->
@@ -142,6 +143,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
         <span class="tag is-success">Zones 8–11</span>
         <span class="tag is-primary">Florida</span>
       </div>
+      <a href="https://www.amazon.com/s?k=Florida+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
     </div>
 
     <!-- Southeast -->
@@ -155,6 +157,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
         <span class="tag is-success">Zones 6–9</span>
         <span class="tag is-primary">GA, NC, SC, VA, AL, TN, MS, AR, KY, LA, WV</span>
       </div>
+      <a href="https://www.amazon.com/s?k=Southeast+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
     </div>
 
     <h2 class="title is-3 has-text-centered mt-6 mb-5">📚 Complete Series</h2>
@@ -173,6 +176,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
             <span class="tag is-success">Zones 3–7</span>
             <span class="tag is-primary">IL, IN, IA, MI, MN, MO, OH, WI, ND, SD</span>
           </div>
+          <a href="https://www.amazon.com/s?k=Midwest+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning is-small mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
         </div>
       </div>
 
@@ -188,6 +192,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
             <span class="tag is-success">Zones 4–8</span>
             <span class="tag is-primary">NY, PA, NJ, CT, MA, ME, NH, VT, RI, DE, MD</span>
           </div>
+          <a href="https://www.amazon.com/s?k=Northeast+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning is-small mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
         </div>
       </div>
 
@@ -203,6 +208,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
             <span class="tag is-success">Zones 5–9</span>
             <span class="tag is-primary">OR, WA, BC</span>
           </div>
+          <a href="https://www.amazon.com/s?k=Pacific+Northwest+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning is-small mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
         </div>
       </div>
 
@@ -218,6 +224,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
             <span class="tag is-success">Zones 5–10</span>
             <span class="tag is-primary">AZ, NM, NV, UT, West TX</span>
           </div>
+          <a href="https://www.amazon.com/s?k=Southwest+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning is-small mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
         </div>
       </div>
 
@@ -233,6 +240,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
             <span class="tag is-success">Zones 7–10</span>
             <span class="tag is-primary">Northern California</span>
           </div>
+          <a href="https://www.amazon.com/s?k=Northern+California+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning is-small mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
         </div>
       </div>
 
@@ -248,6 +256,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
             <span class="tag is-success">Zones 3–7</span>
             <span class="tag is-primary">CO, MT, WY, ID, UT, NM</span>
           </div>
+          <a href="https://www.amazon.com/s?k=Mountain+West+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning is-small mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
         </div>
       </div>
 
@@ -263,6 +272,7 @@ description: "The Harvest Home Guides book series — 10 regional vegetable gard
             <span class="tag is-success">Zones 4–8</span>
             <span class="tag is-primary">KS, NE, OK, ND, SD, TX, CO, MT</span>
           </div>
+          <a href="https://www.amazon.com/s?k=Great+Plains+Vegetable+Gardening+Evan+Maxon&tag=epmlabs-20" class="button is-warning is-small mt-3" target="_blank" rel="nofollow noopener">🔔 Find on Amazon →</a>
         </div>
       </div>
 
