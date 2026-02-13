@@ -11,7 +11,7 @@
     gtag('js', new Date());
     gtag('config', 'G-QZTXZ6P32J');
   </script>
-  <title>{% if page.title %}{{ page.title | truncate: 60 }} | {{ site.title }}{% else %}{{ site.title }} — Regional Vegetable Gardening for Every Zone{% endif %}</title>
+  <title>{% if page.url == "/" %}Harvest Home Guides — Regional Vegetable Gardening for Every Zone{% elsif page.title %}{{ page.title | truncate: 60 }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32.png' | relative_url }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
   {% seo title=false %}
