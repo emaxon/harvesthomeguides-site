@@ -1,0 +1,121 @@
+{% comment %}
+  Recommended Gardening Products Affiliate Widget
+  Maps products by region from post front matter
+{% endcomment %}
+
+{% assign cats = page.categories | join: ' ' | downcase %}
+
+{% assign region_warm = false %}
+{% assign region_cold = false %}
+{% assign region_arid = false %}
+
+{% if cats contains 'texas' or cats contains 'southeast' or cats contains 'florida' or cats contains 'southern' %}
+  {% assign region_warm = true %}
+{% elsif cats contains 'northeast' or cats contains 'midwest' or cats contains 'great-plains' or cats contains 'mountain-west' %}
+  {% assign region_cold = true %}
+{% elsif cats contains 'southwest' or cats contains 'california' or cats contains 'northern-california' %}
+  {% assign region_arid = true %}
+{% endif %}
+
+<div class="box mt-5 mb-5" style="border-left: 4px solid #48c774; background: #f9fff9;">
+  <h3 class="title is-5" style="color: #257942;">🌿 Recommended Gardening Products</h3>
+
+  {% if region_warm %}
+    <div class="columns is-multiline">
+      <div class="column is-half">
+        <p class="mb-1"><strong>Best Choice Raised Garden Bed (8×4)</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Elevated cedar raised bed — great for hot climates.</p>
+        <a href="https://www.amazon.com/dp/B08R3DPJZ9?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>FoxFarm Ocean Forest Potting Soil</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">pH-adjusted soil with earthworm castings &amp; bat guano.</p>
+        <a href="https://www.amazon.com/dp/B001I49Q98?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>Burpee Organic Seed Starting Mix</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Fine-textured mix for strong seedling starts indoors.</p>
+        <a href="https://www.amazon.com/dp/B00GTDI4IO?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>VIVOSUN 6.5×50ft Shade Cloth (40%)</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Protect plants from scorching summer sun.</p>
+        <a href="https://www.amazon.com/dp/B07TXZKHWT?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+    </div>
+
+  {% elsif region_cold %}
+    <div class="columns is-multiline">
+      <div class="column is-half">
+        <p class="mb-1"><strong>Gardener's Supply Elevated Cedar Bed</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">2×8 ft cedar raised bed with standing-height legs.</p>
+        <a href="https://www.amazon.com/dp/B00DECDKEE?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>Agfabric Floating Row Cover</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Frost protection blanket — extends season by weeks.</p>
+        <a href="https://www.amazon.com/dp/B016LKA1EO?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>VIVOSUN Seed Starter Tray Kit (10-Pack)</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Humidity dome trays for indoor seed starting.</p>
+        <a href="https://www.amazon.com/dp/B08QHPB2SJ?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>Espoma Organic Garden-tone Fertilizer</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">All-purpose 3-4-4 organic veggie garden food.</p>
+        <a href="https://www.amazon.com/dp/B002Y0C5GQ?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+    </div>
+
+  {% elsif region_arid %}
+    <div class="columns is-multiline">
+      <div class="column is-half">
+        <p class="mb-1"><strong>VIVOSUN 6.5×50ft Shade Cloth (40%)</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Essential sun protection for desert gardens.</p>
+        <a href="https://www.amazon.com/dp/B07TXZKHWT?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>Dr. Earth Organic Vegetable Garden Planting Mix</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Moisture-retaining organic soil for raised beds.</p>
+        <a href="https://www.amazon.com/dp/B003QHMMGI?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>Raindrip Drip Irrigation Kit</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Water-saving drip system for garden beds &amp; containers.</p>
+        <a href="https://www.amazon.com/dp/B0015I2M1K?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>Best Choice Raised Garden Bed (8×4)</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Deep raised bed perfect for arid soil conditions.</p>
+        <a href="https://www.amazon.com/dp/B08R3DPJZ9?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+    </div>
+
+  {% else %}
+    <div class="columns is-multiline">
+      <div class="column is-half">
+        <p class="mb-1"><strong>Best Choice Raised Garden Bed (8×4)</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Sturdy steel raised bed for any garden setup.</p>
+        <a href="https://www.amazon.com/dp/B08R3DPJZ9?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>GREBSTK 5-Piece Garden Tool Set</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Ergonomic stainless steel tools with carrying tote.</p>
+        <a href="https://www.amazon.com/dp/B0BZG3THSZ?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>VIVOSUN Outdoor Tumbling Compost Bin</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Dual-chamber composter — finished compost in weeks.</p>
+        <a href="https://www.amazon.com/dp/B084FRGR7H?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+      <div class="column is-half">
+        <p class="mb-1"><strong>FoxFarm Ocean Forest Potting Soil</strong></p>
+        <p class="is-size-7 has-text-grey mb-2">Premium ready-to-use soil for containers &amp; beds.</p>
+        <a href="https://www.amazon.com/dp/B001I49Q98?tag=epmlabs-20" class="button is-small is-success is-outlined" target="_blank" rel="nofollow noopener">View on Amazon →</a>
+      </div>
+    </div>
+  {% endif %}
+
+  <p class="is-size-7 has-text-grey-light mt-3" style="font-style: italic;">As an Amazon Associate, we earn from qualifying purchases. Product recommendations are independently chosen.</p>
+</div>
