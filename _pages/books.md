@@ -5,6 +5,112 @@ permalink: /books/
 description: "The Harvest Home Guides book series — 10 regional vegetable gardening guides covering every major U.S. growing region."
 ---
 
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Texas Vegetable Gardening: The Complete Guide to Growing Vegetables in the Lone Star State",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Texas isn't the Southwest or the Southeast — it's Texas, with five distinct growing regions and challenges no other state combines. Month-by-month planting calendars, drought-smart watering techniques, and clay soil solutions.",
+    "bookFormat": "EBook",
+    "inLanguage": "en",
+    "numberOfPages": 200
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Florida Vegetable Gardening: The Complete Guide to Year-Round Growing in the Sunshine State",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Grow vegetables 365 days a year in Florida. Covers North, Central, and South Florida with sandy soil solutions and hurricane-ready garden planning.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Southeast Vegetable Gardening: The Complete Guide to Growing Vegetables in the American South",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Covers 11 states from Virginia to Louisiana with red clay solutions, heat-tolerant varieties, and extended harvest techniques for the Upper, Deep, and Coastal South.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Pacific Northwest Vegetable Gardening: The Complete Guide to Growing Vegetables in Oregon, Washington, and British Columbia",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Year-round growing strategies, rain and moisture management, and warm-season success tactics for the Pacific Northwest.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Northeast Vegetable Gardening: The Complete Guide to Growing Vegetables in New England and the Mid-Atlantic",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Covers 11 states from Maine to Maryland with season extension mastery, compact-space strategies, and cold-hardy varieties.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Midwest Vegetable Gardening: The Complete Guide to Growing Vegetables in the Heartland",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Covers 10 Heartland states with cold-hardy varieties, season extension techniques, and month-by-month calendars for Northern, Central, and Southern Midwest.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Northern California Vegetable Gardening: The Complete Guide to Growing Vegetables from the Bay Area to the Oregon Border",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Covers Bay Area, Sacramento Valley, Wine Country, Sierra Foothills, and the North Coast with water-smart irrigation and fog-belt strategies.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Mountain West Vegetable Gardening: The Complete Guide to Growing Vegetables at Altitude",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Covers Front Range, High Plains, Mountain Valleys, and Intermountain regions with altitude-adjusted techniques and season extension essentials.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Southwest Vegetable Gardening: The Complete Guide to Growing Vegetables in the Desert and Arid West",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Two growing seasons, 300 days of sunshine, and ancient irrigation wisdom meets modern water-wise techniques for Low Desert, High Desert, and Intermountain regions.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Great Plains Vegetable Gardening: The Complete Guide to Growing Vegetables on the Prairie",
+    "author": { "@type": "Person", "name": "Evan Maxon" },
+    "publisher": { "@type": "Organization", "name": "EPM Labs, LLC" },
+    "description": "Covers Northern, Central, and Southern Plains with wind management strategies, drought-smart irrigation, and extreme weather protection.",
+    "bookFormat": "EBook",
+    "inLanguage": "en"
+  }
+]
+</script>
+
 <section class="section">
   <div class="container">
     <h1 class="title is-2 has-text-centered">The Harvest Home Guides Series</h1>
