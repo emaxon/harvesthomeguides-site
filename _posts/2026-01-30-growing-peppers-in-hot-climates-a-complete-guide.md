@@ -7,7 +7,7 @@ categories: [peppers, hot-climate, growing-guide]
 excerpt: "Peppers are one of the best vegetables for hot-climate gardens. Unlike tomatoes that shut down in extreme heat, many pepper varieties thrive when temperatures soar. Here's everything you need to know about growing incredible peppers in Zones 8–10."
 ---
 
-Peppers are one of the best vegetables for hot-climate gardens. Unlike tomatoes that shut down in extreme heat, many pepper varieties thrive when temperatures soar. Here's everything you need to know about growing incredible peppers in Zones 8–10.
+Peppers are one of the best vegetables for hot-climate gardens. Unlike [tomatoes](/blog/growing-tomatoes-in-the-south-beat-the-heat) that shut down in extreme heat, many pepper varieties thrive when temperatures soar. Here's everything you need to know about growing incredible peppers in Zones 8–10.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ That said, peppers aren't invincible. Extreme heat (100°F+), sunscald, poor nut
 
 Hot peppers generally outperform sweet peppers in extreme heat because they're closer to their wild tropical ancestors.
 
-- **Jalapeño (TAM varieties):** TAM Jalapeño was developed by Texas A&M specifically for southern conditions. Milder than standard jalapeños but incredibly productive.
+- **Jalapeño (TAM varieties):** TAM Jalapeño was developed by [Texas](/blog/best-vegetables-to-grow-in-texas-heat) A&M specifically for southern conditions. Milder than standard jalapeños but incredibly productive.
 - **Serrano:** More heat-tolerant than jalapeños. Compact plants, heavy production.
 - **Cayenne:** Long, thin peppers that dry beautifully. Extremely productive in hot weather.
 - **Thai Chili:** Small, incredibly productive plants. Perfect for containers or small spaces.

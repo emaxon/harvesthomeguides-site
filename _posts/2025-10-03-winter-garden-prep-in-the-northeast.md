@@ -9,14 +9,14 @@ excerpt: "October in the Northeast garden is bittersweet. The tomatoes are done,
 
 October in the Northeast garden is bittersweet. The tomatoes are done, the first frost has taken the basil, and there's a chill in the morning air that says the season is over. But it's not — not quite.
 
-What you do in the next four to six weeks determines how your garden performs next spring. The gardeners who put their beds to sleep properly wake up to workable, fertile soil in April. Everyone else fights compacted, weedy, depleted ground while their neighbors are already planting peas.
+What you do in the next four to six weeks determines how your garden performs next spring. The gardeners who put their beds to sleep properly wake up to workable, fertile soil in April. Everyone else fights compacted, weedy, depleted ground while their neighbors are already planting [peas](/blog/best-vegetables-for-northeast-gardens).
 
 Here's your fall checklist.
 
 ## Step 1: Final Harvests and Cleanup
 
 ### What to pull immediately after first frost:
-- **Tomatoes** — harvest everything, including green fruit. Ripen indoors in paper bags.
+- **Tomatoes** — harvest everything (see our [Northeast tomato guide](/blog/growing-tomatoes-in-the-northeast)), including green fruit. Ripen indoors in paper bags.
 - **Peppers** — harvest all. Green peppers are fine for cooking.
 - **Basil** — already dead. Compost the plants.
 - **Beans** — pull plants, compost healthy foliage. Leave roots in the ground — they've fixed nitrogen.
@@ -195,3 +195,8 @@ Every minute you invest in fall prep pays dividends in April. The garlic's in th
 Our **Harvest Home Guide: Northeast Edition** includes the complete fall and winter checklist, garlic growing guide, cover crop recommendations by zone, and month-by-month maintenance calendar to keep your garden on track year-round.
 
 **[Get the Northeast Harvest Home Guide →](/guides/northeast)**
+
+---
+
+📚 **Want the complete guide?** *[Northeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

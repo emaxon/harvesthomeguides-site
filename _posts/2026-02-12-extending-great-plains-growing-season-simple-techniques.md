@@ -19,12 +19,12 @@ The simplest and cheapest season extension tool. Lightweight spunbond fabric (li
 
 **How to use it:**
 - Lay the fabric over plants loosely — it's light enough that plants push it up as they grow.
-- Anchor edges with rocks, soil, or landscape staples.
+- Anchor edges with rocks, [soil preparation](/blog/soil-preparation-great-plains-vegetable-gardens), or landscape staples.
 - Remove on warm sunny days (above 75°F) to prevent overheating and allow pollination.
 
 **Cost:** About $20-30 for a 10×50-foot roll, which covers a serious garden and lasts 2-3 seasons.
 
-**Best for:** Transplants of tomatoes, peppers, and squash set out 2 weeks before the last frost date. Also protects from wind damage on young seedlings — a major bonus on the Great Plains.
+**Best for:** Transplants of tomatoes, peppers, and squash set out 2 weeks before the last frost date. Also protects from [wind management](/blog/growing-vegetables-great-plains-wind-and-heat) damage on young seedlings — a major bonus on the Great Plains.
 
 ### Wall O' Water and Cloches
 
@@ -129,3 +129,8 @@ Here's what an extended Great Plains garden season looks like (using central Kan
 | November-December | Harvest kale, carrots, spinach under cover and mulch |
 
 That's roughly 10 months of production from a garden that would otherwise give you 5-6. No greenhouse required. Just fabric, hoops, mulch, and good timing. The Great Plains season is short, but it doesn't have to define your garden.
+
+---
+
+📚 **Want the complete guide?** *[Great Plains Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

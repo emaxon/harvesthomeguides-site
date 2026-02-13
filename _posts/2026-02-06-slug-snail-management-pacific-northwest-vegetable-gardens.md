@@ -142,3 +142,15 @@ Several animals eat slugs enthusiastically. Encouraging them is the most sustain
 Slug management in the PNW is an ongoing practice, not a one-time fix. The combination of iron phosphate bait, hand picking during peak periods, cultural practices that reduce habitat, and patience will keep your vegetable garden productive despite sharing it with the region's most persistent pest.
 
 You'll never have a slug-free garden in the Pacific Northwest. But you can absolutely have a productive one.
+
+
+
+**Keep reading:**
+- [Best Cool-Season Crops for PNW Gardens](/blog/best-cool-season-crops-pacific-northwest-gardens)
+- [Year-Round PNW Gardening](/blog/year-round-vegetable-gardening-pacific-northwest)
+- [Growing Vegetables in the PNW's Rainy Climate](/blog/growing-vegetables-pacific-northwest-rainy-climate)
+
+---
+
+📚 **Want the complete guide?** *[Pacific Northwest Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

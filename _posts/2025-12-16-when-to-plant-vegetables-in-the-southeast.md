@@ -7,7 +7,7 @@ categories: [southeast, planting-calendar, vegetables]
 excerpt: "You moved to the Southeast thinking the long growing season meant easy gardening. Then your tomatoes fried in July and your fall broccoli bolted before Thanksgiving."
 ---
 
-You moved to the Southeast thinking the long growing season meant easy gardening. Then your tomatoes fried in July and your fall broccoli bolted before Thanksgiving. The Southeast's generous climate is genuinely an advantage — but only if you know *when* to put what in the ground.
+You moved to the Southeast thinking the long growing season meant easy gardening. Then your [tomatoes](/blog/growing-tomatoes-in-the-south-beat-the-heat) fried in July and your [fall gardening](/blog/fall-vegetable-gardening-in-the-southeast) broccoli bolted before Thanksgiving. The Southeast's generous climate is genuinely an advantage — but only if you know *when* to put what in the ground.
 
 This guide covers planting windows for Georgia, North Carolina, South Carolina, Alabama, Tennessee, and Virginia. Not vague "spring" suggestions — actual dates tied to your USDA hardiness zone.
 
@@ -56,7 +56,7 @@ Everything flows from these two numbers. Here's a zone-by-zone breakdown:
 - First fall frost: December 1–15
 - Growing season: ~280+ days
 
-## Spring Planting: Cool-Season Crops First
+## [spring planting](/blog/southeast-spring-vegetable-garden-planting-guide): Cool-Season Crops First
 
 Start with crops that *like* cold. These go in the ground 4–8 weeks before your last frost date.
 
@@ -110,7 +110,7 @@ Here's what catches people off guard: many crops **stop producing in mid-summer*
 
 Zones 8a and warmer often have a **dead zone** from late June through August where the smart play is:
 
-- Keeping heat-tolerant crops going (okra, sweet potatoes, Southern peas)
+- Keeping [heat and humidity tolerant](/blog/best-vegetables-for-hot-humid-southern-gardens) crops going (okra, sweet potatoes, Southern peas)
 - Starting fall seedlings indoors under grow lights
 - Maintaining mulch and irrigation on what's still producing
 
@@ -162,3 +162,8 @@ For zone 8b (first frost ~November 20):
 Knowing *when* to plant is half the battle. The other half is knowing *what* thrives in your specific area, how to build your soil, and how to handle the pests and diseases that come with humid Southern growing.
 
 Our *Southeast Vegetable Gardening Guide* covers all of it — zone-by-zone planting calendars, variety recommendations tested in Southern conditions, and month-by-month task lists so you always know what to do next. **[Get your copy here →]**
+
+---
+
+📚 **Want the complete guide?** *[Southeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

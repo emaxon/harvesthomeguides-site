@@ -17,7 +17,7 @@ You need three things from a garden location:
 
 **Access to water.** You'll be watering regularly from June through September. If you have to drag a 200-foot hose across the yard every time, you won't do it. Put your garden within easy reach of a spigot.
 
-**Wind protection.** If your chosen spot is wide open to the west or northwest, you'll struggle. A fence, building wall, hedge, or row of trees on the windward side makes a dramatic difference. If you don't have natural protection, plan to build a simple windbreak — even straw bales stacked along one side help.
+**[wind](/blog/growing-vegetables-great-plains-wind-and-heat) protection.** If your chosen spot is wide open to the west or northwest, you'll struggle. A fence, building wall, hedge, or row of trees on the windward side makes a dramatic difference. If you don't have natural protection, plan to build a simple windbreak — even straw bales stacked along one side help.
 
 ## Step 2: Start Small
 
@@ -125,3 +125,13 @@ But you'll also eat your first homegrown tomato and realize it doesn't taste any
 That's the hook. It gets you every time.
 
 Next year you'll want a bigger garden. That's how it starts. Welcome to growing food on the Great Plains.
+
+
+
+**Keep reading:**
+- [Soil Preparation for Great Plains Gardens](/blog/soil-preparation-great-plains-vegetable-gardens)
+
+---
+
+📚 **Want the complete guide?** *[Great Plains Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

@@ -149,3 +149,9 @@ Indoor seed starting is step one of a Midwest growing season that, done right, c
 **[Get your copy of the Midwest Harvest Home Guide →](/books/midwest)**
 
 Your growing season starts now — at your kitchen table, under a shop light, weeks before the last snow melts.
+
+**Keep reading:**
+- [Best Vegetables for Short Midwest Summers](/blog/best-vegetables-short-midwest-summers)
+- [Protecting Your Garden from Late Spring Frosts](/blog/protecting-midwest-garden-late-spring-frosts)
+- [Building Raised Beds for Midwest Clay Soil](/blog/building-raised-beds-midwest-clay-soil)
+

@@ -15,7 +15,7 @@ Zone 7 is one of the most versatile gardening zones in the United States. With a
 
 USDA Zone 7 covers a wide band across the United States:
 
-- **Zone 7a** (0–5°F minimum): Parts of Virginia, North Carolina, Tennessee, Arkansas, Oklahoma, North Texas, New Mexico, and the Pacific Northwest
+- **Zone 7a** (0–5°F minimum): Parts of Virginia, [North Carolina](/blog/when-to-plant-vegetables-in-the-southeast), Tennessee, Arkansas, Oklahoma, [North Texas](/blog/when-to-plant-vegetables-in-texas-zone-by-zone-guide), New Mexico, and the Pacific Northwest
 - **Zone 7b** (5–10°F minimum): Parts of the same states, generally slightly warmer microclimates
 
 **Average last spring frost:** April 1–15
@@ -314,3 +314,7 @@ Zone 7 soils vary wildly by location. Get a soil test and follow the recommendat
 Zone 7 is one of the best gardening zones in America. Use this calendar, stay consistent, and you'll be eating from your garden 9–10 months of the year.
 
 *For complete regional guides tailored to your specific Zone 7 area, check out the [Harvest Home Guides book series](/books/). Each book covers a specific U.S. region with month-by-month detail.*
+
+**Keep reading:**
+- [Mountain West Planting Guide](/blog/when-to-plant-vegetables-in-the-mountain-west)
+

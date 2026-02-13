@@ -13,7 +13,7 @@ Tomatoes are the reason most people start a vegetable garden. They're also the c
 
 Here's the contradiction: Texas has ideal conditions for tomatoes — long growing seasons, abundant sunshine, warm soil. But we also have 100°F+ summer temperatures that shut down pollen production, humidity that breeds fungal diseases, and alkaline clay soil that ties up nutrients.
 
-The secret to tomato success in Texas is accepting that you're not growing on the same timeline as someone in Ohio. Our season is earlier, shorter in the middle, and — here's the part most people miss — it comes back in fall.
+The secret to tomato success in Texas is accepting that you're not growing on the same timeline as someone in Ohio. Our season is earlier, shorter in the middle, and — here's the part most people miss — it comes back in [fall planting](/blog/texas-fall-vegetable-planting-guide).
 
 ## Timing: When to Plant Tomatoes in Texas
 
@@ -21,7 +21,7 @@ This is the most important section. Get the timing wrong and nothing else matter
 
 **The goal:** Get tomatoes in the ground early enough that they set fruit before nighttime temperatures consistently exceed 75°F. Above that threshold, tomato pollen becomes sterile and fruit production stops.
 
-### Spring Planting by Zone
+### [spring planting guide](/blog/texas-spring-vegetable-garden-what-to-plant-and-when) Planting by Zone
 
 | Zone | Transplant Date | First Harvest | Heat Cutoff |
 |------|----------------|---------------|-------------|
@@ -152,3 +152,8 @@ For determinates, minimal pruning. Remove only dead or diseased foliage.
 ## The Full Tomato Playbook
 
 Growing great tomatoes in Texas is absolutely achievable — you just can't use the same playbook as the rest of the country. For complete variety trial results, zone-specific planting calendars, detailed disease management protocols, and month-by-month care guides, *Harvest Home Guides: Texas Vegetable Gardening* covers it all. Because in Texas, growing tomatoes isn't just gardening — it's a point of pride.
+
+---
+
+📚 **Want the complete guide?** *[Texas Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

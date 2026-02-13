@@ -181,6 +181,16 @@ Save yourself the trouble:
 
 The Northeast is one of the best vegetable gardening regions in the country — you just have to play to its strengths. Cool-season crops, smart variety selection, and fall gardening transform a short season into a productive one.
 
-Our **Harvest Home Guide: Northeast Edition** includes complete variety recommendations, planting calendars for every zone, and season extension techniques that'll have you harvesting fresh food from March through December.
+Our **Harvest Home Guide: Northeast Edition** includes complete variety recommendations, [spring planting calendar](/blog/northeast-spring-planting-calendar-zone-4-7-guide)s for every zone, and season extension techniques that'll have you harvesting fresh food from March through December.
 
 **[Get the Northeast Harvest Home Guide →](/guides/northeast)**
+
+
+
+**Keep reading:**
+- [Winter Garden Prep in the Northeast](/blog/winter-garden-prep-in-the-northeast)
+
+---
+
+📚 **Want the complete guide?** *[Northeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

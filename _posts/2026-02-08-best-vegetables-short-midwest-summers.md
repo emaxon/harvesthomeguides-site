@@ -132,3 +132,8 @@ Scale up from there. But start with the right varieties and you'll be amazed how
 **[Get the full Midwest planting guide →](/books/midwest)**
 
 Your 140-day season isn't a limitation. It's a framework — and it's more than enough.
+
+**Keep reading:**
+- [Starting Seeds Indoors for the Midwest](/blog/starting-seeds-indoors-midwest-growing-season)
+- [Fall and Winter Gardening in the Midwest](/blog/fall-winter-vegetable-gardening-midwest)
+

@@ -9,7 +9,7 @@ excerpt: "Ninety frost-free days sounds like a prison sentence for your garden. 
 
 Ninety frost-free days sounds like a prison sentence for your garden. It's actually plenty — if you plan like it matters.
 
-Across the Mountain West — high valleys in Colorado, most of Montana, northern Wyoming, central Idaho, and the higher elevations of Utah — gardeners work with growing seasons between 75 and 110 frost-free days. That's roughly mid-June to mid-September. Meanwhile, garden magazines show off tomato harvests from gardeners in Zone 7 who planted in April and won't see frost until November. Those articles aren't for you.
+Across the Mountain West — high valleys in [Colorado](/blog/best-vegetables-for-colorado-gardens), most of Montana, northern Wyoming, central Idaho, and the higher elevations of Utah — gardeners work with growing seasons between 75 and 110 frost-free days. That's roughly mid-June to mid-September. Meanwhile, garden magazines show off tomato harvests from gardeners in Zone 7 who planted in April and won't see frost until November. Those articles aren't for you.
 
 This one is.
 
@@ -86,7 +86,7 @@ For a 90-day season: **Listed maturity should not exceed 69 days** for warm-seas
 
 **Cucumbers (under 55 days):**
 - Marketmore 76 (58 days) — Pushing it, but works with an early transplant start
-- Spacemaster (56 days) — Compact plants, good for containers
+- Spacemaster (56 days) — Compact plants, good for [containers](/blog/container-vegetable-gardening-high-altitude)s
 - Pick a Bushel (50 days) — Pickling cucumber that produces fast
 
 ## Strategy 3: Use Season Extenders on Both Ends
@@ -155,3 +155,8 @@ Orient raised beds on a north-south axis to maximize sun exposure on both sides.
 Ninety frost-free days with a plan beats 180 frost-free days without one. Mountain West gardeners who embrace their climate — choosing the right varieties, extending the season intelligently, and leaning into cool-season strengths — grow more food than they expect and eat better than they imagined.
 
 For complete short-season planting plans, variety recommendations by elevation, and week-by-week task calendars, check out *The Mountain West Vegetable Gardening Guide* from Harvest Home Guides. Because gardening in the mountains shouldn't require guessing.
+
+---
+
+📚 **Want the complete guide?** *[Mountain West Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

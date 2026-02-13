@@ -15,7 +15,7 @@ Raised beds are the fastest path to a productive vegetable garden, especially if
 
 Raised beds solve most of the problems that frustrate beginner vegetable gardeners:
 
-1. **Bad soil doesn't matter.** Clay, sand, rocks, caliche — whatever's underneath, you control what goes in the raised bed.
+1. **Bad soil doesn't matter.** [Midwest clay soil](/blog/building-raised-beds-midwest-clay-soil), sand, rocks, caliche — whatever's underneath, you control what goes in the raised bed.
 2. **Better drainage.** Raised soil drains faster than in-ground beds, which most vegetables prefer.
 3. **Soil warms faster in spring.** Get a 2–3 week head start on the growing season.
 4. **Less bending and kneeling.** Beds 18–24 inches tall are much easier on your back.
@@ -138,7 +138,7 @@ These work in raised beds but take up a lot of room per plant:
 
 ### A First-Year Raised Bed Plan (4×8 Bed)
 
-**Spring planting:**
+**[spring planting checklist](/blog/spring-vegetable-garden-checklist-by-zone):**
 
 ```
 [  Tomato  ] [  Tomato  ] [ Pepper ] [ Pepper ]

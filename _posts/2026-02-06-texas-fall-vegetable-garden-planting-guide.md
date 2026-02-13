@@ -13,7 +13,7 @@ Fall gardening is Texas's best-kept secret. While summer heat shuts down most pr
 
 ## Why Fall Gardening in Texas Is Better Than Spring
 
-Most Texas gardeners focus on spring planting, but experienced growers know the truth: fall is the more productive season for many crops. Here's why:
+Most Texas gardeners focus on [spring planting](/blog/texas-spring-vegetable-garden-what-to-plant-and-when), but experienced growers know the truth: fall is the more productive season for many crops. Here's why:
 
 1. **Cooling temperatures are better than warming ones.** In spring, you're racing against rising heat. In fall, temperatures are dropping into the ideal range for most vegetables.
 2. **Less pest pressure.** Many insects are winding down their life cycles in fall, meaning fewer aphids, hornworms, and squash vine borers.

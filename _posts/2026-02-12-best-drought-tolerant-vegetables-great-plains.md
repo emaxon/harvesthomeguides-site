@@ -9,7 +9,7 @@ excerpt: "Water is the Great Plains gardener's most precious resource. These veg
 
 Water is the Great Plains gardener's most precious resource. Average annual rainfall ranges from 15 inches in western Kansas to 35 inches in eastern Oklahoma — and much of it falls in spring storms that dump two inches in an hour and then disappear for three weeks. Your garden needs vegetables that can handle the dry stretches without falling apart.
 
-Drought-tolerant doesn't mean "plant and forget." It means these crops survive and produce with significantly less water than standard garden vegetables. Combined with good soil preparation and mulching, they let you grow a productive garden even in dry years.
+Drought-tolerant doesn't mean "plant and forget." It means these crops survive and produce with significantly less water than standard garden vegetables. Combined with good [soil preparation](/blog/soil-preparation-great-plains-vegetable-gardens) and mulching, they let you grow a productive garden even in dry years.
 
 ## What Makes a Vegetable Drought-Tolerant?
 
@@ -81,3 +81,13 @@ The real secret to drought-tolerant gardening isn't the plants — it's the soil
 **Cover crops** planted in fall (winter rye, crimson clover) add organic matter, prevent erosion, and improve soil structure. Chop and incorporate them in spring, 2-3 weeks before planting.
 
 Growing food with limited water is a skill. The Great Plains will teach it to you faster than any book. Start with the most drought-tolerant crops on this list, build your soil year after year, and mulch like your garden depends on it — because it does.
+
+
+
+**Keep reading:**
+- [Extending the Growing Season](/blog/extending-great-plains-growing-season-simple-techniques)
+
+---
+
+📚 **Want the complete guide?** *[Great Plains Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

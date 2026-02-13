@@ -15,7 +15,7 @@ The North American Monsoon (officially June 15–September 30, but functionally 
 
 The monsoon isn't just rain — it's a fundamental shift in growing conditions:
 
-**Humidity jumps from 10-15% to 40-60%.** This single change reduces plant water stress dramatically. Transpiration rates drop, leaves stop crisping, and suddenly your soil stays moist for more than 4 hours after watering.
+**Humidity jumps from 10-15% to 40-60%.** This single change reduces plant [water stress](/blog/water-smart-vegetable-gardening-southwest) dramatically. Transpiration rates drop, leaves stop crisping, and suddenly your soil stays moist for more than 4 hours after watering.
 
 **Cloud cover reduces temperatures by 5-15°F.** Afternoon thunderstorms build cloud banks that block the most intense solar radiation. Instead of 112°F and clear, you get 102°F with afternoon shade. That 10-degree difference pushes many vegetables back into their productive range.
 
@@ -30,7 +30,7 @@ The monsoon isn't just rain — it's a fundamental shift in growing conditions:
 **July 1-15: Indoor seed starting**
 
 Start these indoors under lights or in a bright window:
-- Tomato seeds (choose heat-tolerant varieties: 'Phoenix,' 'Heatmaster,' 'Solar Fire')
+- Tomato seeds (choose [heat-tolerant](/blog/desert-vegetable-gardening-what-actually-grows-110f) varieties: 'Phoenix,' 'Heatmaster,' 'Solar Fire')
 - Pepper starts (if your spring peppers died — otherwise, your existing plants will regrow)
 - Cucumber and squash seeds (Armenian cucumber, 'Tatume' squash)
 - Eggplant seeds

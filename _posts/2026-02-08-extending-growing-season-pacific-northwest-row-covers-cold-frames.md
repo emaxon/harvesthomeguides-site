@@ -122,4 +122,14 @@ This layered approach can keep greens growing through all but the worst PNW cold
 
 If you're new to season extension in the PNW, start with one low tunnel over your best-drained raised bed. Plant it with a salad mix in September. You'll be harvesting fresh greens in December while your neighbors' gardens sit bare, and you'll wonder why you ever let winter stop you from gardening.
 
-The PNW's mild temperatures mean you don't need expensive equipment to garden year-round. You just need to keep the rain off and add a few degrees. Everything else, this climate provides for free.
+The PNW's mild temperatures mean you don't need expensive equipment to garden [year-round gardening](/blog/year-round-vegetable-gardening-pacific-northwest). You just need to keep the rain off and add a few degrees. Everything else, this climate provides for free.
+
+
+
+**Keep reading:**
+- [Best Cool-Season Crops for PNW Gardens](/blog/best-cool-season-crops-pacific-northwest-gardens)
+
+---
+
+📚 **Want the complete guide?** *[Pacific Northwest Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

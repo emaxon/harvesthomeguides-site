@@ -9,7 +9,7 @@ excerpt: "You moved to the Mountain West for the views. Nobody warned you about 
 
 You moved to the Mountain West for the views. Nobody warned you about the June snow. Or the frost that shows up in August like an uninvited guest. Or the 40-degree temperature swings that make your tomatoes question their life choices.
 
-Planting vegetables in Colorado, Utah, Idaho, Montana, and Wyoming isn't like gardening anywhere else. Your growing season might be 90 days or 160 days depending on whether you live at 3,500 feet in Boise or 9,000 feet outside Leadville. Generic planting calendars from seed packets? Those were written for Ohio. You need dates that account for altitude, late snowpack, and the kind of UV exposure that turns lettuce bitter by July.
+Planting vegetables in Colorado, Utah, Idaho, Montana, and Wyoming isn't like gardening anywhere else. Your growing season might be [90 days or 160 days](/blog/mountain-west-short-season-gardening) depending on whether you live at 3,500 feet in Boise or 9,000 feet outside Leadville. Generic planting calendars from seed packets? Those were written for Ohio. You need dates that account for altitude, late snowpack, and the kind of UV exposure that turns lettuce bitter by July.
 
 Here's your real planting timeline, broken down by zone and elevation.
 
@@ -90,7 +90,7 @@ For a Zone 5 gardener transplanting tomatoes around May 25, that means starting 
 ## State-by-State Adjustments
 
 ### Colorado
-The Front Range (Denver, Fort Collins, Colorado Springs) sits in Zone 5b-6a around 5,000–6,500 feet. Last frost: May 5–15. Mountain communities above 8,000 feet may not see their last frost until mid-June. Pueblo and Grand Junction in Zone 6b-7a get earlier starts — sometimes April transplanting for cool-season crops.
+The [Front Range](/blog/best-vegetables-for-colorado-gardens) (Denver, Fort Collins, Colorado Springs) sits in Zone 5b-6a around 5,000–6,500 feet. Last frost: May 5–15. Mountain communities above 8,000 feet may not see their last frost until mid-June. Pueblo and Grand Junction in Zone 6b-7a get earlier starts — sometimes April transplanting for cool-season crops.
 
 ### Utah
 Salt Lake Valley is Zone 6b with a last frost around April 15–May 1. The Wasatch Back (Park City, Heber) is Zone 5a-5b, last frost May 15–June 1. Southern Utah (St. George) is a different world entirely — Zone 8a with February planting windows.
@@ -128,3 +128,8 @@ If you want tomatoes, peppers, or melons in the Mountain West, you need at least
 Getting the timing right is the single biggest factor in Mountain West vegetable gardening success. But timing is just the start — you also need to choose the right varieties, build soil that works at altitude, and manage water in a semi-arid climate.
 
 If you're ready to go deeper, grab a copy of *The Mountain West Vegetable Gardening Guide* from Harvest Home Guides. It covers variety selection, soil building, irrigation, pest management, and month-by-month task lists for every zone in the region. Written specifically for gardeners in Colorado, Utah, Idaho, Montana, and Wyoming — because you deserve better than advice written for sea level.
+
+---
+
+📚 **Want the complete guide?** *[Mountain West Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

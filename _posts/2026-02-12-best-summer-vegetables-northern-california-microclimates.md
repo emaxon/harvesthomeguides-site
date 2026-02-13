@@ -43,7 +43,7 @@ The fog belt is tough for heat-loving crops but perfect for others. Forget about
 You've got the best of both worlds: enough heat for warm-season crops, enough marine influence to avoid the worst extremes.
 
 - **Tomatoes:** Nearly any variety works. Early Girl, Cherokee Purple, Sun Gold, and Brandywine all thrive. Start transplants in April, harvest July through October.
-- **Peppers:** Bell peppers, jalapeños, and Padróns all do well. Jimmy Nardello is an excellent sweet pepper for this climate.
+- **[peppers](/blog/growing-peppers-in-hot-climates-a-complete-guide):** Bell peppers, jalapeños, and Padróns all do well. Jimmy Nardello is an excellent sweet pepper for this climate.
 - **Zucchini and summer squash:** Direct sow in May. You'll have more than you can eat by July. Black Beauty and Costata Romanesco are favorites.
 - **Cucumbers:** Marketmore 76 and Lemon cucumbers love the warm days and cool nights. Provide consistent water.
 - **Eggplant:** Japanese varieties like Ichiban produce faster than globe types, which matters if your nights cool off quickly.
@@ -85,7 +85,7 @@ NorCal's last spring frost dates vary enormously:
 
 **General rule:** Plant warm-season crops 2 weeks after your last frost date when soil temperatures reach 60-65°F. Use a soil thermometer — air temperature lies to you.
 
-## Water-Smart Summer Gardening
+## [water-smart gardening](/blog/water-smart-vegetable-gardening-southwest) Summer Gardening
 
 NorCal's Mediterranean climate means zero rain from May through October. Every drop comes from your hose or your irrigation system.
 
@@ -104,3 +104,8 @@ The real advantage here is the length of your growing season. While gardeners in
 - **Plan your fall transition.** By August, start cool-season crops for fall and winter harvest. This is when NorCal gardening gets really interesting — but that's another guide.
 
 Northern California rewards gardeners who pay attention to their specific spot on the map. Don't copy what your neighbor does if they're in a different microclimate. Watch your garden, learn your conditions, and choose varieties that match. The results will speak for themselves.
+
+---
+
+📚 **Want the complete guide?** *[Northern California Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

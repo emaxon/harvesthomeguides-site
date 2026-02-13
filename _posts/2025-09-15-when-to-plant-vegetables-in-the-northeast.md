@@ -30,7 +30,7 @@ Those Zone 7 gardeners in Cape May? They're practically living in a different re
 
 ## Cool-Season Crops: Your First Planting Window
 
-Cool-season vegetables are the Northeast's secret weapon. These crops don't just tolerate cool weather — they prefer it. You can get them in the ground weeks before your last frost date.
+Cool-season vegetables are [the Northeast's secret weapon](/blog/best-vegetables-for-northeast-gardens). These crops don't just tolerate cool weather — they prefer it. You can get them in the ground weeks before your last frost date.
 
 ### Direct Sow Outdoors (4–6 weeks before last frost):
 - **Peas** (snap, snow, and shelling) — soil temp 40°F+
@@ -57,7 +57,7 @@ Here's where Northeast gardeners get into trouble. You see those tomato transpla
 Warm-season crops need **soil temperatures of 60°F or higher** — and that doesn't happen until well after your last frost date. A tomato planted in 50°F soil doesn't grow. It just sits there, sulking, while its roots rot.
 
 ### Transplant Outdoors (1–2 weeks AFTER last frost, soil 60°F+):
-- **Tomatoes** — the crown jewel; see our [tomato growing guide](/growing-tomatoes-northeast) for variety picks
+- **Tomatoes** — the crown jewel; see our [tomato growing guide](/blog/growing-tomatoes-in-the-northeast) for variety picks
 - **Peppers** — even more heat-loving than tomatoes; wait until soil hits 65°F
 - **Eggplant** — treat like peppers
 - **Basil** — dies at the merest hint of frost
@@ -143,3 +143,8 @@ The Northeast rewards gardeners who plan. Not obsessively — just enough to mat
 If you want the complete planting calendar with variety recommendations for every zone in the region, our **Harvest Home Guide: Northeast Edition** has you covered. It's the only guide written specifically for Zones 4–7, with frost date tables, seed starting schedules, and month-by-month plans for every state from Maine to New Jersey.
 
 **[Get the Northeast Harvest Home Guide →](/guides/northeast)**
+
+---
+
+📚 **Want the complete guide?** *[Northeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

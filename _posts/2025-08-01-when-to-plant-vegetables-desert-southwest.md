@@ -17,7 +17,7 @@ Forget everything you learned from gardening books written for the Midwest. In t
 
 **Spring Season (February–May):** Your cool-season crops go in as early as January in the low desert. Warm-season crops follow in February and March — yes, February. By the time gardeners in Ohio are starting seeds indoors, your tomatoes should already be setting fruit.
 
-**Fall Season (August–November):** This is your second chance, and honestly, it's the better one. Lower sun angle, cooling temperatures, and — if you're lucky — monsoon moisture. Many desert gardeners produce more food in fall than spring.
+**Fall Season (August–November):** This is your second chance, and honestly, it's the better one. Lower sun angle, cooling temperatures, and — if you're lucky — [monsoon moisture](/blog/southwest-monsoon-season-planting-guide). Many desert gardeners produce more food in fall than spring.
 
 **The Dead Zone (June–mid-August):** When daytime highs exceed 110°F and nighttime lows stay above 85°F, most vegetables simply stop producing. Tomatoes drop their blossoms. Peppers stall. Lettuce bolts so fast it looks like it's trying to escape. This isn't failure — it's physics.
 
@@ -128,3 +128,8 @@ Knowing *when* to plant is half the battle. The other half — soil preparation,
 **[Get your copy of the Southwest Harvest Home Guide →](/books/southwest)**
 
 Your desert garden is waiting. It just needs you to show up at the right time.
+
+**Keep reading:**
+- [What Actually Grows in 110°F](/blog/desert-vegetable-gardening-what-actually-grows-110f)
+- [Water-Smart Vegetable Gardening in the Southwest](/blog/water-smart-vegetable-gardening-southwest)
+

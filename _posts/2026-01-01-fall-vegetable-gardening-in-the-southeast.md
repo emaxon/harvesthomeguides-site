@@ -56,7 +56,7 @@ Here are first frost dates by zone:
 **Broccoli.** This is the #1 fall crop for the Southeast. Spring broccoli often bolts before heading in zones 8+. Fall broccoli grows slowly through cooling weather and produces beautiful, tight heads.
 
 - **Waltham 29** — Classic open-pollinated variety, 74 days, excellent side shoot production after main head is cut
-- **Green Magic** — Hybrid, 57 days from transplant, heat-tolerant for early fall planting
+- **Green Magic** — Hybrid, 57 days from transplant, [heat-tolerant](/blog/best-vegetables-for-hot-humid-southern-gardens) for early fall planting
 - **Belstar** — Organic growers' favorite, good disease resistance, 66 days
 - Start seeds indoors 8–10 weeks before target transplant date
 
@@ -209,3 +209,14 @@ With minimal protection, you can keep harvesting well past your first frost date
 The Southeast fall garden is a genuinely competitive advantage. You have the climate for a second growing season that produces some of the best-tasting vegetables of the year. All it takes is planning ahead and getting seeds started in the heat of summer for a harvest that lasts into winter.
 
 Our *Southeast Vegetable Gardening Guide* covers the full fall and winter growing season with zone-specific calendars, variety recommendations, and cold protection strategies to keep you harvesting fresh food year-round. **[Get your copy here →]**
+
+
+
+**Keep reading:**
+- [Southeast Spring Planting Guide](/blog/southeast-spring-vegetable-garden-planting-guide)
+- [Growing Tomatoes in the South](/blog/growing-tomatoes-in-the-south-beat-the-heat)
+
+---
+
+📚 **Want the complete guide?** *[Southeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

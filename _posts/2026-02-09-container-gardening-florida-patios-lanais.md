@@ -17,7 +17,7 @@ But container gardening in Florida comes with unique challenges. The heat bakes 
 
 Before we get into the how, let's talk about why containers are actually a smart choice for Florida gardeners:
 
-- **You skip the sandy soil problem.** Florida's native soil is terrible for most vegetables. Containers let you start with a perfect growing mix.
+- **You skip the [Florida's sandy soil](/blog/vegetables-for-florida-sandy-soil) problem.** Florida's native soil is terrible for most vegetables. Containers let you start with a perfect growing mix.
 - **No nematodes.** Root-knot nematodes are the bane of in-ground Florida gardens. They don't exist in fresh container mix.
 - **Portability.** You can move pots into shade during heat waves, under cover during hurricanes, and into the garage during rare freezes.
 - **Lanai advantage.** Screened lanais provide partial shade and wind protection while keeping out some pests. Many Florida vegetables actually grow better behind a screen than in full, unfiltered sun.
@@ -99,7 +99,7 @@ If you're serious about container gardening in Florida, invest in a simple drip 
 
 This isn't a luxury — it's practically a necessity if you travel, work long hours, or simply don't want to hand-water every single day for 12 months.
 
-## Best Vegetables for Florida Containers
+## [best vegetables for Florida](/blog/best-vegetables-for-florida-gardens) for Florida Containers
 
 ### Year-Round Winners
 
@@ -159,3 +159,8 @@ You don't need a huge investment to start. Here's a productive container garden 
 That gets you three productive containers that can supply fresh herbs, salad greens, and tomatoes for months. Scale up from there as you learn what works on your patio or lanai.
 
 The beauty of container gardening in Florida is that you can start small, learn fast, and expand whenever you're ready. Your patio has more food-growing potential than you think.
+
+---
+
+📚 **Want the complete guide?** *[Florida Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

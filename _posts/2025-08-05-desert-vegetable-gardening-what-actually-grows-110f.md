@@ -117,7 +117,7 @@ Growing heat-tolerant varieties is step one. But even heat warriors benefit from
 
 2. **Using black plastic mulch.** This works in Minnesota. In Phoenix, it creates a root-zone oven. Use organic mulch or reflective mulch instead.
 
-3. **Overhead watering in extreme heat.** Water droplets on leaves act as tiny magnifying glasses. Drip irrigation, always.
+3. **Overhead watering in extreme heat.** Water droplets on leaves act as tiny magnifying glasses. [drip irrigation](/blog/water-smart-vegetable-gardening-southwest), always.
 
 4. **Giving up entirely from June to August.** The right varieties produce straight through the hottest months. You just need to plant the right things.
 
@@ -130,3 +130,7 @@ Variety selection is crucial in the desert — but it's only one piece of the pu
 **[Get the complete Southwest growing guide →](/books/southwest)**
 
 The desert grows food. Incredible, flavorful, abundant food. You just have to meet it on its own terms.
+
+**Keep reading:**
+- [Southwest Monsoon Season Planting Guide](/blog/southwest-monsoon-season-planting-guide)
+

@@ -7,7 +7,7 @@ categories: [mountain-west, colorado, vegetables, variety-guide]
 excerpt: "Colorado gives you 300 days of sunshine and about 90 of them without frost. Choose your vegetables accordingly."
 ---
 
-Colorado gives you 300 days of sunshine and about 90 of them without frost. Choose your vegetables accordingly.
+Colorado gives you 300 days of sunshine and about [90 of them without frost](/blog/mountain-west-short-season-gardening). Choose your vegetables accordingly.
 
 Whether you're gardening on the Front Range at 5,280 feet, in a mountain town at 8,500 feet, or on the Western Slope where things are a bit more forgiving, your vegetable choices need to match your specific slice of Colorado. This isn't a state where one planting list works everywhere. Denver and Leadville are both Colorado, but they might as well be different planets when it comes to growing tomatoes.
 
@@ -71,7 +71,7 @@ This is expert-mode Colorado gardening. Your season is brutally short, your soil
 
 ### What Works Above 7,000 Feet
 
-**Cool-season crops dominate.** At high altitude, lean heavily into these:
+**Cool-season crops dominate.** At [high-altitude gardening tips](/blog/high-altitude-vegetable-gardening-tips), lean heavily into these:
 - **Peas (Sugar Snap, Oregon Sugar Pod)** — Direct sow as soon as ground thaws, usually late May. Produce until hard frost.
 - **Kale (Red Russian, Winterbor)** — The toughest green. Survives light frost and keeps producing.
 - **Spinach (Tyee, Space)** — Fast-growing varieties that mature before summer heat arrives. Plant again in August.
@@ -132,3 +132,8 @@ Colorado grows outstanding garlic. Plant hardneck varieties (Music, German Extra
 Colorado's combination of intense sun, cool nights, and dry air produces vegetables with concentrated flavor that humid-climate gardens can't match. Work with your climate — lean into greens, root crops, and short-season varieties — and you'll eat better than you thought possible at a mile high.
 
 For the complete Colorado vegetable gardening guide — including month-by-month planting schedules, soil amendment rates, irrigation planning, and 50+ variety recommendations by elevation — get your copy of *The Mountain West Vegetable Gardening Guide* from Harvest Home Guides. Written by gardeners who know what a June frost feels like.
+
+---
+
+📚 **Want the complete guide?** *[Mountain West Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

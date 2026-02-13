@@ -134,3 +134,8 @@ The only investment is knowledge, timing, and $30–50 worth of row cover or pla
 **[Get the full Midwest season extension guide →](/books/midwest)**
 
 Your garden doesn't have to end when the tomatoes freeze. It's just getting to the good part.
+
+**Keep reading:**
+- [Starting Seeds Indoors for the Midwest](/blog/starting-seeds-indoors-midwest-growing-season)
+- [Frost Protection Tips](/blog/protecting-midwest-garden-late-spring-frosts)
+

@@ -141,3 +141,9 @@ Total investment: under $40. Total value: saving hundreds of dollars in transpla
 **[Get the complete Midwest frost protection and planting guide →](/books/midwest)**
 
 Frost is coming. It always does. But now you're ready for it.
+
+**Keep reading:**
+- [Starting Seeds Indoors](/blog/starting-seeds-indoors-midwest-growing-season)
+- [Best Vegetables for Short Summers](/blog/best-vegetables-short-midwest-summers)
+- [Building Raised Beds for Clay Soil](/blog/building-raised-beds-midwest-clay-soil)
+

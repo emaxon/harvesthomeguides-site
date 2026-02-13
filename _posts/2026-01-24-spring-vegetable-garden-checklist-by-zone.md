@@ -224,7 +224,7 @@ Regardless of your zone, these tasks apply every spring:
 - [ ] Check drainage — fix any waterlogging issues before planting
 
 ### Infrastructure
-- [ ] Repair or replace raised beds, fences, and trellises
+- [ ] Repair or replace [raised beds](/blog/raised-bed-vegetable-gardening-for-beginners), fences, and trellises
 - [ ] Clean and sharpen tools
 - [ ] Check irrigation systems for leaks and clogs
 - [ ] Install new support structures (tomato cages, bean poles)

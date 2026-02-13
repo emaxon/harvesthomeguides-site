@@ -2,14 +2,14 @@
 layout: post
 title: "High Altitude Vegetable Gardening: Tips for Mountain Gardens"
 date: 2025-10-19
-description: "Practical tips for growing vegetables above 5,000 feet. Handle thin air, intense UV, short seasons, and frost in mountain gardens."
+description: "Practical tips for growing vegetables above 5,000 feet. Handle thin air, intense UV, [short season](/blog/mountain-west-short-season-gardening)s, and frost in mountain gardens."
 categories: [mountain-west, high-altitude, gardening-tips]
 excerpt: "Gardening above 5,000 feet means dealing with physics that actively work against your tomatoes."
 ---
 
 Gardening above 5,000 feet means dealing with physics that actively work against your tomatoes. Thinner air means more UV radiation. More UV means faster evaporation, sunscalded fruit, and bolting lettuce. Lower atmospheric pressure means water boils at lower temperatures — and while that mostly affects your cooking, it's a useful reminder that everything up here plays by different rules.
 
-If you garden in the mountains of Colorado, Utah, Idaho, Montana, or Wyoming, you already know this. Your neighbor at 4,000 feet is harvesting tomatoes while you're still crossing your fingers that frost holds off until September. But high-altitude gardening isn't impossible. It just requires strategy instead of hope.
+If you garden in the mountains of [Colorado](/blog/best-vegetables-for-colorado-gardens), Utah, Idaho, Montana, or Wyoming, you already know this. Your neighbor at 4,000 feet is harvesting tomatoes while you're still crossing your fingers that frost holds off until September. But high-altitude gardening isn't impossible. It just requires strategy instead of hope.
 
 ## What Altitude Actually Does to Your Garden
 
@@ -153,3 +153,8 @@ It's not all bad news. High-altitude gardens have genuine advantages:
 High-altitude gardening rewards the prepared. Once you understand the physics — shorter season, more UV, thinner air, temperature swings — you can work with them instead of against them. The harvests are smaller but often better-tasting than anything you'll find at lower elevations.
 
 For a complete guide to mountain vegetable gardening — including variety lists, planting calendars by elevation, soil building techniques, and month-by-month task lists — pick up *The Mountain West Vegetable Gardening Guide* from Harvest Home Guides. It's written for gardeners who live where the air is thin and the growing season is shorter than they'd like.
+
+---
+
+📚 **Want the complete guide?** *[Mountain West Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

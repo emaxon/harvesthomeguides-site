@@ -77,7 +77,7 @@ These crops handle wind and heat better than most:
 
 **Nebraska (Zone 4b-5b):** More temperature extremes than Kansas. The Platte River valley has excellent garden soil. Eastern Nebraska gets more rainfall (30+ inches) than the west (15 inches), so irrigation needs vary dramatically. Short-season varieties are essential in the Sandhills and Panhandle.
 
-**South Dakota (Zone 3b-5a):** Season length is your constraint — 110-140 frost-free days depending on location. The Black Hills create interesting microclimates worth exploiting. Focus on cold-hardy crops and use season extension techniques.
+**South Dakota (Zone 3b-5a):** Season length is your constraint — 110-140 frost-free days depending on location. The Black Hills create interesting microclimates worth exploiting. Focus on cold-hardy crops and use [season extension](/blog/extending-great-plains-growing-season-simple-techniques) techniques.
 
 **North Dakota (Zone 3a-4b):** The shortest season and coldest winters on the Great Plains. Fargo gets about 130 frost-free days; western ND drops to 110-120. Start everything indoors, use cold frames and row cover aggressively, and focus on fast-maturing varieties. The flip side: summer days are long (15+ hours of daylight in June), which accelerates growth dramatically.
 
@@ -92,3 +92,13 @@ Great Plains weather is unpredictable. A late May freeze can kill transplants. A
 **Succession plant.** If a crop fails to weather, replant immediately. Beans, lettuce, and root vegetables can go in every few weeks. Don't mourn the loss — just plant again.
 
 The Great Plains isn't easy gardening territory. But gardeners here develop skills and resilience that gardeners in milder climates never need. Every tomato you harvest in a Kansas August, every basket of beans pulled from a Nebraska garden in the wind — those are earned. And that makes them taste even better.
+
+
+
+**Keep reading:**
+- [Soil Preparation for Great Plains Gardens](/blog/soil-preparation-great-plains-vegetable-gardens)
+
+---
+
+📚 **Want the complete guide?** *[Great Plains Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

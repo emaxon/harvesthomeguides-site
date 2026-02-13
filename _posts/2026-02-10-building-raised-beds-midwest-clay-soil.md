@@ -135,3 +135,9 @@ A well-built raised bed on Midwest clay is a 10–15 year investment that improv
 **[Get the complete Midwest raised bed and soil guide →](/books/midwest)**
 
 Build the beds now. Your future self — the one not wrestling a shovel through clay — will thank you.
+
+**Keep reading:**
+- [Starting Seeds Indoors for the Midwest](/blog/starting-seeds-indoors-midwest-growing-season)
+- [Protecting Your Garden from Late Spring Frosts](/blog/protecting-midwest-garden-late-spring-frosts)
+- [Fall and Winter Gardening in the Midwest](/blog/fall-winter-vegetable-gardening-midwest)
+

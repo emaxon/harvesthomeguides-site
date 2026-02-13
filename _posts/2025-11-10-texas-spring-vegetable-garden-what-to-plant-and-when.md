@@ -7,7 +7,7 @@ categories: [texas, spring-gardening, planting-guide]
 excerpt: "Spring in Texas lasts about six weeks — if you're lucky. That narrow window between 'still freezing' and 'already 95°F' is where your best gardening happens. Here's how to make every day count."
 ---
 
-Spring in Texas lasts about six weeks — if you're lucky. That narrow window between "still freezing" and "already 95°F" is where your best gardening happens. Miss it, and you're either replanting frost-killed seedlings or watching heat-stressed tomatoes drop their blossoms.
+Spring in Texas lasts about six weeks — if you're lucky. That narrow window between "still freezing" and "already 95°F" is where your best gardening happens. Miss it, and you're either replanting frost-killed seedlings or watching [heat-tolerant vegetables](/blog/best-vegetables-to-grow-in-texas-heat) [tomatoes](/blog/growing-tomatoes-in-texas-varieties-timing-and-tips) drop their blossoms.
 
 The trick is knowing exactly when your spring window opens and closes — because in Texas, that depends entirely on where you live.
 
@@ -15,7 +15,7 @@ The trick is knowing exactly when your spring window opens and closes — becaus
 
 Your spring planting season starts 4–6 weeks before your last expected frost date for cool-season crops, and right around your last frost date for warm-season crops. Here's a quick reference:
 
-- **Zone 7a–7b (Panhandle/Lubbock):** Spring starts mid-March for cool crops, mid-April for warm crops
+- **[zone-by-zone planting guide](/blog/when-to-plant-vegetables-in-texas-zone-by-zone-guide) 7a–7b (Panhandle/Lubbock):** Spring starts mid-March for cool crops, mid-April for warm crops
 - **Zone 8a (DFW/East Texas):** Spring starts mid-February for cool crops, late March for warm crops
 - **Zone 8b (Austin/San Antonio):** Spring starts late January for cool crops, early March for warm crops
 - **Zone 9a–9b (Houston/Corpus Christi):** Spring starts January for cool crops, mid-February for warm crops
@@ -117,10 +117,15 @@ Here's a cheat sheet of proven spring varieties for Texas, organized by crop:
 
 **Skipping mulch.** Bare soil in spring means weeds, moisture loss, and rapidly climbing soil temperatures. Mulch 3–4 inches deep after planting. Pull it back slightly from stems to prevent rot.
 
-**Ignoring the fall garden.** Texas gives you two growing seasons. If you're only planting in spring, you're leaving half your potential harvest on the table. Start planning your fall garden in May — transplants of tomatoes, peppers, and brassicas for fall planting need to start indoors in June or July.
+**Ignoring the fall garden.** Texas gives you two growing seasons. If you're only planting in spring, you're leaving half your potential harvest on the table. Start planning your fall garden in May — transplants of tomatoes, peppers, and brassicas for [fall planting](/blog/texas-fall-vegetable-planting-guide) need to start indoors in June or July.
 
 **Overwatering.** New gardeners water every day. Established vegetable gardens in spring typically need 1 inch per week. Water deeply, less often. Check soil moisture at 2 inches deep before watering — if it's moist, wait.
 
 ## Set Yourself Up Right
 
 Spring is where Texas gardeners make their year. Get the timing right, choose varieties proven in our conditions, and you'll be eating homegrown tomatoes by May and fresh okra by June. For the complete system — planting calendars by zone, soil prep for Texas clay and caliche, irrigation strategies, and month-by-month to-do lists — check out *Harvest Home Guides: Texas Vegetable Gardening*. It's everything you need to make this spring your most productive one yet.
+
+---
+
+📚 **Want the complete guide?** *[Texas Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

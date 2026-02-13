@@ -29,7 +29,7 @@ Before we dive into specific pests, shift your thinking:
 
 **What they do:** Swarms of tiny white flying insects congregate on the undersides of leaves, sucking plant sap. They excrete sticky honeydew that grows black sooty mold. Heavy infestations weaken and eventually kill plants.
 
-**Crops affected:** Tomatoes, peppers, squash, beans, eggplant — basically everything.
+**Crops affected:** [tomato growing](/blog/growing-tomatoes-in-florida-humid-climate)es, peppers, squash, beans, eggplant — basically everything.
 
 **Why they're bad in Florida:** Whiteflies breed year-round in Florida's warmth. A single female produces 200+ eggs. Populations explode in weeks.
 
@@ -77,7 +77,7 @@ Before we dive into specific pests, shift your thinking:
 
 **Crops affected:** Tomatoes, peppers, okra, squash, cucumbers, beans — most vegetables are susceptible.
 
-**Why they're bad in Florida:** Nematodes thrive in warm, sandy soil. Florida has both. They're the hidden killer of Florida vegetable gardens — many gardeners blame their failures on heat or soil when nematodes are the real culprit.
+**Why they're bad in Florida:** Nematodes thrive in warm, [sandy soil](/blog/vegetables-for-florida-sandy-soil). Florida has both. They're the hidden killer of Florida vegetable gardens — many gardeners blame their failures on heat or soil when nematodes are the real culprit.
 
 **Organic controls:**
 - **Soil solarization.** Cover moist beds with clear plastic during summer. Six weeks of Florida summer sun heats the soil to temperatures that kill nematodes in the top 6–8 inches. This is the single most effective organic nematode control.
@@ -145,3 +145,8 @@ Keep these on hand and you can handle 90% of Florida garden pest situations:
 That's it. Seven items. You don't need a shelf full of chemicals to grow healthy vegetables in Florida. You need good practices, a few targeted organic products, and the patience to let beneficial insects do their job.
 
 The goal isn't a perfect garden. It's a productive one — where you're eating fresh vegetables despite the bugs, not poisoning yourself trying to eliminate them.
+
+---
+
+📚 **Want the complete guide?** *[Florida Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

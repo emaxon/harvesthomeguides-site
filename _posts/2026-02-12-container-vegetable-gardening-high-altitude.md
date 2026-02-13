@@ -7,7 +7,7 @@ categories: [mountain-west, containers, high-altitude]
 excerpt: "No yard? Bad soil? Short season? Container gardening at high altitude solves all three — if you understand the unique challenges of growing in pots above 5,000 feet."
 ---
 
-No yard? Bad soil? Short season? Container gardening at high altitude solves all three problems at once. Containers let you grow vegetables on a deck, patio, or balcony anywhere in the Mountain West. You control the soil. You can move pots to chase sunlight or flee from hail. And containers warm up faster than ground soil in spring, giving you a head start on the season.
+No yard? Bad soil? [short season](/blog/mountain-west-short-season-gardening)? Container gardening at [high altitude](/blog/high-altitude-vegetable-gardening-tips) solves all three problems at once. Containers let you grow vegetables on a deck, patio, or balcony anywhere in the Mountain West. You control the soil. You can move pots to chase sunlight or flee from hail. And containers warm up faster than ground soil in spring, giving you a head start on the season.
 
 But high altitude adds wrinkles that sea-level container guides don't cover. More UV, faster evaporation, wider temperature swings, and thinner air all affect how you grow in pots above 5,000 feet. Here's how to handle it.
 
@@ -122,3 +122,14 @@ Container plants depend entirely on you for nutrients. Potting mix has limited f
 **Watch for nutrient deficiency:** Yellowing lower leaves usually mean nitrogen deficiency. Purple-tinged leaves suggest phosphorus. Both are common in fast-growing container plants that have depleted their soil nutrients.
 
 Container gardening at altitude has a learning curve — mostly around watering. But once you nail the routine, you'll be amazed at what a few pots on a sunny deck can produce. Start with five containers this season: a tomato, a pepper, a pot of herbs, a lettuce bowl, and a bucket of beans. That's a garden. And it fits on a 4×6-foot balcony in any mountain town.
+
+
+
+**Keep reading:**
+- [Mountain West Short Season Gardening](/blog/mountain-west-short-season-gardening)
+- [Mountain West State-by-State Guide](/blog/mountain-west-vegetable-gardening-state-by-state-guide)
+
+---
+
+📚 **Want the complete guide?** *[Mountain West Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

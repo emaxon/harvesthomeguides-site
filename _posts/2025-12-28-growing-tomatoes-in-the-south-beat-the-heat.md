@@ -79,7 +79,7 @@ Fall tomatoes in the South are genuinely excellent. The fruit ripens in cooling 
 
 **For the fall crop, choose:**
 - Fast-maturing determinates (Celebrity, Mountain Magic, 68–75 days)
-- Heat-tolerant varieties for the transplant phase (it's still hot in August)
+- [heat-tolerant varieties](/blog/best-vegetables-for-hot-humid-southern-gardens) for the transplant phase (it's still hot in August)
 - Disease-resistant genetics (the soil is loaded with pathogens by late summer)
 
 ## Strategy 3: Use Shade Cloth
@@ -170,3 +170,14 @@ In the humid South, you're not preventing disease — you're managing it. Accept
 Southern tomato growing is a different discipline than what works in cooler climates. But when you combine heat-tolerant varieties, smart timing, shade cloth, heavy mulch, and disciplined disease management, you can harvest tomatoes from May through November in most of the Southeast. That's a longer tomato season than almost anywhere in the country.
 
 Our *Southeast Vegetable Gardening Guide* includes a complete tomato growing chapter with variety recommendations by zone, disease identification photos, and month-by-month care schedules for both spring and fall crops. **[Get your copy here →]**
+
+
+
+**Keep reading:**
+- [Growing Peppers in Hot Climates](/blog/growing-peppers-in-hot-climates-a-complete-guide)
+- [Fall Vegetable Gardening in the Southeast](/blog/fall-vegetable-gardening-in-the-southeast)
+
+---
+
+📚 **Want the complete guide?** *[Southeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

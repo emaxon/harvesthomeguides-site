@@ -34,7 +34,7 @@ These are crops you planted in summer and fall that hold through winter, growing
 
 ### Season 2: The Spring Surge (March–May)
 
-This is the busiest planting period. Cool-season crops go directly into beds, and warm-season crops start indoors.
+This is the busiest planting period. [cool-season crops](/blog/best-cool-season-crops-pacific-northwest-gardens) go directly into beds, and warm-season crops start indoors.
 
 **March:**
 - Direct seed peas, fava beans, radishes, arugula, and spinach outdoors
@@ -171,3 +171,14 @@ If you've never gardened through a PNW winter, start this July. Sow a flat of 'P
 That first winter harvest — pulling fresh broccoli from your garden while it rains sideways in February — will change how you think about the gardening year forever.
 
 The Pacific Northwest has twelve months of growing season. Use all of them.
+
+
+
+**Keep reading:**
+- [Slug and Snail Management for PNW Gardens](/blog/slug-snail-management-pacific-northwest-vegetable-gardens)
+- [Extending the PNW Growing Season](/blog/extending-growing-season-pacific-northwest-row-covers-cold-frames)
+
+---
+
+📚 **Want the complete guide?** *[Pacific Northwest Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

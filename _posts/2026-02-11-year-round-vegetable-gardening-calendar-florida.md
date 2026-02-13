@@ -28,7 +28,7 @@ For each month, I've listed what to **plant** (seeds or transplants into the gro
 **Plant:**
 - North: Broccoli, cabbage, cauliflower, lettuce, spinach, kale, peas, radishes, carrots, beets (transplants or direct seed). Start tomato and pepper seeds indoors.
 - Central: All of the above, plus set out tomato and pepper transplants late in the month if overnight lows stay above 50°F.
-- South: Tomatoes, peppers, eggplant, squash, cucumbers, beans, corn. This is peak warm-season planting for South Florida.
+- South: [tomatoes](/blog/growing-tomatoes-in-florida-humid-climate), peppers, eggplant, squash, cucumbers, beans, corn. This is peak warm-season planting for South Florida.
 
 **Do:**
 - Cover tender plants if freeze warnings hit North or Central Florida. Row cover fabric works better than plastic.
@@ -170,3 +170,14 @@ The biggest mental shift for Florida gardeners is letting go of the idea that ga
 Keep a simple planting journal — even just notes on your phone. After two years of tracking what you planted, when, and how it performed, you'll have a personalized Florida gardening calendar that beats any generic guide.
 
 The goal isn't to grow everything all the time. It's to always have **something** growing. With Florida's climate, that's not just possible — it's easy once you know the rhythm.
+
+
+
+**Keep reading:**
+- [Vegetables for Florida's Sandy Soil](/blog/vegetables-for-florida-sandy-soil)
+- [Container Gardening on Florida Patios](/blog/container-gardening-florida-patios-lanais)
+
+---
+
+📚 **Want the complete guide?** *[Florida Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

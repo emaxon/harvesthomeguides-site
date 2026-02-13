@@ -125,3 +125,15 @@ Soil preparation isn't a one-time project. Every year:
 - **Avoid compaction** — never walk on planting beds; use permanent paths
 
 After 3-5 years of consistent improvement, you'll have soil that grows vegetables as well as anything in the country. The Great Plains built six feet of topsoil over millennia. You can build six inches of incredible garden soil in a few seasons with the right approach.
+
+
+
+**Keep reading:**
+- [Best Drought-Tolerant Vegetables](/blog/best-drought-tolerant-vegetables-great-plains)
+- [Beating the Wind and Heat](/blog/growing-vegetables-great-plains-wind-and-heat)
+- [Great Plains Beginner's Guide](/blog/starting-vegetable-garden-great-plains-beginners-guide)
+
+---
+
+📚 **Want the complete guide?** *[Great Plains Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

@@ -7,7 +7,7 @@ categories: [texas, fall-gardening, planting-guide]
 excerpt: "If you think the gardening season ends when summer scorches your tomato plants, you're missing the best half. Fall gardening in Texas is easier, more productive, and — honestly — more enjoyable than spring. Here's your complete guide."
 ---
 
-If you think the gardening season ends when summer scorches your tomato plants, you're missing the best half. Fall gardening in Texas is easier, more productive, and — honestly — more enjoyable than spring. Cooler temperatures, lower pest pressure, and fewer diseases make autumn the secret weapon of experienced Texas gardeners.
+If you think the gardening season ends when summer scorches your [tomato growing](/blog/growing-tomatoes-in-texas-varieties-timing-and-tips) plants, you're missing the best half. Fall gardening in Texas is easier, more productive, and — honestly — more enjoyable than [spring planting](/blog/texas-spring-vegetable-garden-what-to-plant-and-when). Cooler temperatures, lower pest pressure, and fewer diseases make autumn the secret weapon of experienced Texas gardeners.
 
 The catch? You have to start planning in the heat of summer. Your fall garden begins in July and August, even though it doesn't produce until September through December (or later, depending on your zone).
 
@@ -27,7 +27,7 @@ Three reasons:
 
 This is where fall gardening actually begins. In July, while your summer garden limps along, you should be starting transplants for:
 
-- **Tomatoes** (heat-tolerant varieties: 'Solar Fire,' 'HeatMaster,' 'Phoenix')
+- **Tomatoes** ([heat-tolerant](/blog/best-vegetables-to-grow-in-texas-heat) varieties: 'Solar Fire,' 'HeatMaster,' 'Phoenix')
 - **Peppers** (jalapeño, serrano, bell)
 - **Eggplant**
 - **Broccoli** ('Waltham 29,' 'Green Magic,' 'Destiny')
@@ -150,3 +150,8 @@ Frost doesn't have to end your season. Light frosts (28°F–32°F) damage tende
 ## Your Fall Garden Awaits
 
 Fall is when Texas gardening gets fun. The air cools, the harvests pile up, and you wonder why you ever thought the season ended in July. For complete zone-by-zone planting schedules, variety recommendations tested across Texas, and month-by-month care guides for your fall and winter garden, *Harvest Home Guides: Texas Vegetable Gardening* has everything you need. Don't let the best half of the Texas growing season pass you by.
+
+---
+
+📚 **Want the complete guide?** *[Texas Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

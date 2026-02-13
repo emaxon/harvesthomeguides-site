@@ -185,3 +185,15 @@ Print this calendar. Tape it to your fridge. Adjust the dates for your specific 
 For the complete planning toolkit — including fall planting calendars, season extension techniques, and variety recommendations for every crop — our **Harvest Home Guide: Northeast Edition** covers it all.
 
 **[Get the Northeast Harvest Home Guide →](/guides/northeast)**
+
+
+
+**Keep reading:**
+- [Best Vegetables for Northeast Gardens](/blog/best-vegetables-for-northeast-gardens)
+- [Growing Tomatoes in the Northeast](/blog/growing-tomatoes-in-the-northeast)
+- [Winter Garden Prep in the Northeast](/blog/winter-garden-prep-in-the-northeast)
+
+---
+
+📚 **Want the complete guide?** *[Northeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

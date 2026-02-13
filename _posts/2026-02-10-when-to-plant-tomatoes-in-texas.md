@@ -7,7 +7,7 @@ categories: [tomatoes, texas, planting-calendar]
 excerpt: "Texas tomato season is short and intense — but if you time it right, you can grow more tomatoes than you know what to do with. Here's exactly when to plant in every Texas region, which varieties to choose, and how to beat the heat."
 ---
 
-Texas tomato season is short and intense — but if you time it right, you can grow more tomatoes than you know what to do with. Here's exactly when to plant in every Texas region, which varieties to choose, and how to beat the heat.
+Texas tomato season is short and intense — but if you time it right, you can grow more tomatoes than you know what to do with. Here's exactly when to plant in every Texas region, which [tomato varieties and tips](/blog/growing-tomatoes-in-texas-varieties-timing-and-tips) to choose, and how to beat the heat.
 
 <!--more-->
 
@@ -42,7 +42,7 @@ Central Texas warms up faster than the northern part of the state. Your last fro
 
 **Key considerations:**
 - Central Texas summers are brutally hot — your spring tomato window closes by late June in most years
-- Fall planting (late July transplants) is actually more productive for many Central Texas gardeners
+- [fall planting](/blog/texas-fall-vegetable-garden-planting-guide) (late July transplants) is actually more productive for many Central Texas gardeners
 - San Antonio and areas south of Austin can push transplants as early as late February in mild winters
 
 ### South Texas (Houston, Corpus Christi, Rio Grande Valley, Zones 9a–9b)

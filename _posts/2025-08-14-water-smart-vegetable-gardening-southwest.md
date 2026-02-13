@@ -13,7 +13,7 @@ The good news: desert gardeners have been solving this problem for 4,000 years. 
 
 ## How Much Water Do Vegetables Actually Need?
 
-Before we talk about saving water, let's establish what your plants require. In the low desert during peak summer:
+Before we talk about saving water, let's establish [what your plants can handle](/blog/desert-vegetable-gardening-what-actually-grows-110f). In the low desert during peak summer:
 
 **Evapotranspiration (ET) rate:** 0.30-0.35 inches per day in June-July. That means your soil loses a third of an inch of water *every day* just to evaporation and plant transpiration.
 
@@ -52,7 +52,7 @@ If you're growing vegetables in the desert with sprinklers or a hose-end nozzle,
 
 **Pro Tip:** Water at 5 AM, not in the evening. Morning watering lets foliage dry before the heat of the day (preventing fungal issues) and gives roots access to moisture during the coolest, most efficient uptake period.
 
-**Adjust for monsoon:** During active monsoon (July-September), reduce or skip irrigation on days with significant rainfall. A rain sensor ($20) added to your timer automates this.
+**Adjust for [monsoon](/blog/southwest-monsoon-season-planting-guide):** During active monsoon (July-September), reduce or skip irrigation on days with significant rainfall. A rain sensor ($20) added to your timer automates this.
 
 ### Inline Drip Tubing vs. Individual Emitters
 

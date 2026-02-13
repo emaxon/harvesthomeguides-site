@@ -19,7 +19,7 @@ Western Washington and Oregon soils tend toward heavy clay — the kind that tur
 
 **The fix is drainage, not avoidance.** You have three main options:
 
-1. **Raised beds** — The single best investment for PNW vegetable gardening. Even 8–10 inches of elevation gets roots above the winter water table. Fill with a mix of 60% topsoil, 30% compost, and 10% perlite or pumice (pumice is locally available and doesn't float away like perlite).
+1. **[raised beds](/blog/raised-bed-vegetable-gardening-for-beginners)** — The single best investment for PNW vegetable gardening. Even 8–10 inches of elevation gets roots above the winter water table. Fill with a mix of 60% topsoil, 30% compost, and 10% perlite or pumice (pumice is locally available and doesn't float away like perlite).
 
 2. **Heavy composting** — If you're gardening in-ground, add 3–4 inches of compost annually. Over 2–3 years, this transforms clay into workable soil with dramatically better drainage.
 
@@ -31,7 +31,7 @@ The Pacific Northwest has two distinct growing windows, and successful gardeners
 
 ### The Cool Season (October–May)
 
-This is your secret weapon. While gardeners in colder climates are staring at frozen ground, you're harvesting fresh greens. Winters west of the Cascades rarely drop below 25°F for extended periods (Zones 8a–8b in most lowland areas). That means a huge range of cool-season crops grow through winter with minimal protection.
+This is your secret weapon. While gardeners in colder climates are staring at frozen ground, you're harvesting fresh greens. Winters west of the Cascades rarely drop below 25°F for extended periods (Zones 8a–8b in most lowland areas). That means a huge range of [cool-season crops](/blog/best-cool-season-crops-pacific-northwest-gardens) grow through winter with minimal protection.
 
 **What to plant for cool-season harvest:**
 - Kale (any variety — it's practically the PNW state vegetable)
@@ -105,3 +105,8 @@ In the PNW, choosing the right variety isn't a nice-to-have — it's the differe
 The Pacific Northwest's rainy climate isn't a limitation — it's an opportunity to grow food 10–12 months of the year, something most American gardeners can only dream about. The key is understanding your soil, choosing the right varieties, and working with the seasons instead of against them.
 
 Once you dial in the timing and drainage, you'll wonder why anyone gardens anywhere else.
+
+---
+
+📚 **Want the complete guide?** *[Pacific Northwest Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

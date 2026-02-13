@@ -9,7 +9,7 @@ excerpt: "It's July in Texas, your tomato plants look like they've given up on l
 
 It's July in Texas, your tomato plants look like they've given up on life, and you're wondering why you even bother. Good news: plenty of vegetables actually love this heat. You just need to pick the right ones.
 
-Texas summers are brutal. We're talking 95°F to 110°F for weeks at a stretch, often with humidity levels that make you question your life choices. Most vegetable varieties bred for temperate climates simply shut down when nighttime temperatures stay above 75°F. Tomatoes stop setting fruit. Lettuce bolts before you can blink. Peas? Forget about it.
+Texas summers are brutal. We're talking 95°F to 110°F for weeks at a stretch, often with humidity levels that make you question your life choices. Most vegetable varieties bred for temperate climates simply shut down when nighttime temperatures stay above 75°F. [tomatoes](/blog/growing-tomatoes-in-texas-varieties-timing-and-tips) stop setting fruit. Lettuce bolts before you can blink. Peas? Forget about it.
 
 But some crops don't just tolerate Texas heat — they thrive in it. Here's your lineup for summer success.
 
@@ -51,7 +51,7 @@ Sweet potatoes are the ultimate set-and-forget summer crop. They love heat, tole
 
 **Growing tips:** Plant slips (not seeds) in May after soil hits 65°F. Space 12 inches apart in rows 36 inches apart. Don't over-fertilize — too much nitrogen gives you gorgeous vines and pathetic tubers. Harvest in October before first frost, then cure in a warm (80°F–85°F), humid space for 10 days to develop sweetness.
 
-### Peppers (Hot and Sweet)
+### [peppers](/blog/growing-peppers-in-hot-climates-a-complete-guide) (Hot and Sweet)
 
 While bell peppers struggle in extreme heat (they drop blossoms above 95°F), many pepper varieties keep producing all summer. The key is choosing heat-adapted varieties.
 
@@ -146,3 +146,8 @@ That's enough to keep fresh vegetables on your table from June through October, 
 ## Keep Growing
 
 Texas summer gardening is a different game than spring — but it's not a lesser one. The crops that thrive in our heat are some of the most flavorful, nutritious, and satisfying you can grow. For the complete seasonal playbook — including month-by-month planting schedules, variety trials, and pest management tailored to Texas heat — grab a copy of *Harvest Home Guides: Texas Vegetable Gardening*. Your summer garden doesn't have to be an afterthought.
+
+---
+
+📚 **Want the complete guide?** *[Texas Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

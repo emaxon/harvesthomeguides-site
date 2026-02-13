@@ -4,7 +4,7 @@ title: "Growing Tomatoes in the Northeast: Short Season Success"
 date: 2025-09-29
 description: "How to grow tomatoes in the Northeast. Early varieties, season extension, and techniques for Zones 4-7 short seasons."
 categories: [northeast, tomatoes, growing-guide]
-excerpt: "Growing tomatoes in the Northeast is an act of optimism. You're betting that the 140-ish frost-free days between late May and mid-October are enough to ripen fruit on a tropical plant that would prefer to live in Central America."
+excerpt: "Growing tomatoes in the Northeast is an act of optimism. You're betting that the 140-ish frost-free days between late May and mid-October (see our [Northeast planting guide](/blog/when-to-plant-vegetables-in-the-northeast) for exact dates) are enough to ripen fruit on a tropical plant that would prefer to live in Central America."
 ---
 
 Growing tomatoes in the Northeast is an act of optimism. You're betting that the 140-ish frost-free days between late May and mid-October are enough to ripen fruit on a tropical plant that would prefer to live in Central America.
@@ -176,3 +176,13 @@ Control what you can: variety selection, timing, soil health, disease prevention
 For complete variety guides, zone-specific timing tables, and advanced season extension techniques, check out our **Harvest Home Guide: Northeast Edition** — the only tomato resource calibrated for Zones 4–7.
 
 **[Get the Northeast Harvest Home Guide →](/guides/northeast)**
+
+
+
+**Keep reading:**
+- [Northeast Spring Planting Calendar](/blog/northeast-spring-planting-calendar-zone-4-7-guide)
+
+---
+
+📚 **Want the complete guide?** *[Northeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

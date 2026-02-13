@@ -59,7 +59,7 @@ Most Mediterranean herbs actually prefer sandy, well-drained soil:
 
 ## How to Improve Sandy Soil (Without Breaking the Bank)
 
-For crops that need more from the soil — tomatoes, peppers, lettuce, broccoli — you'll need to build up your soil over time. Here's the most cost-effective approach:
+For crops that need more from the soil — [tomatoes](/blog/growing-tomatoes-in-florida-humid-climate), peppers, lettuce, broccoli — you'll need to build up your soil over time. Here's the most cost-effective approach:
 
 ### Compost: The Foundation
 
@@ -134,3 +134,13 @@ Slow-release fertilizers work better than quick-release in sandy soil. They mete
 If you commit to adding compost every season, mulching continuously, and growing cover crops between plantings, your sandy Florida soil will be noticeably better within three years. The organic matter content will increase, water retention will improve, and the biological activity in your soil will transform it from dead sand into a living growing medium.
 
 It's not instant gratification. But it's permanent improvement — and every season gets easier.
+
+
+
+**Keep reading:**
+- [Container Gardening for Florida Patios](/blog/container-gardening-florida-patios-lanais)
+
+---
+
+📚 **Want the complete guide?** *[Florida Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

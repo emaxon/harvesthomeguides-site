@@ -65,7 +65,7 @@ Overwintering brassicas are a PNW specialty. Transplant them in August or early 
 
 **Best spring varieties:** 'Belstar' broccoli, 'Arcadia' broccoli (excellent side-shoot production), 'Snow Crown' cauliflower.
 
-**Pest note:** Cabbage moths are active year-round in the PNW. Cover brassicas with insect netting from transplant day onward, or you'll be picking caterpillars out of your florets forever.
+**Pest note:** Cabbage moths are active [year-round gardening](/blog/year-round-vegetable-gardening-pacific-northwest) in the PNW. Cover brassicas with insect netting from transplant day onward, or you'll be picking caterpillars out of your florets forever.
 
 ### Lettuce and Salad Greens
 
@@ -132,3 +132,14 @@ A 4x8 raised bed dedicated to cool-season crops can feed two people a significan
 Rotate crops annually, add compost between plantings, and you'll build soil fertility while eating well through the months most gardeners write off as "off-season."
 
 The PNW doesn't have an off-season. It just has a season most people haven't learned to use yet.
+
+
+
+**Keep reading:**
+- [Extending the Growing Season with Row Covers](/blog/extending-growing-season-pacific-northwest-row-covers-cold-frames)
+- [Slug and Snail Management](/blog/slug-snail-management-pacific-northwest-vegetable-gardens)
+
+---
+
+📚 **Want the complete guide?** *[Pacific Northwest Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

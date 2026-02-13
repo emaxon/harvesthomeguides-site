@@ -7,7 +7,7 @@ categories: [texas, planting-calendar, vegetables]
 excerpt: "Texas spans four USDA hardiness zones and over 800 miles north to south. A planting date that works in Amarillo will get your seedlings killed in San Antonio — and vice versa. Here's how to get your timing right."
 ---
 
-Texas spans four USDA hardiness zones and over 800 miles north to south. A planting date that works in Amarillo will get your seedlings killed in San Antonio — and vice versa. If you've ever Googled "when to plant tomatoes in Texas" and gotten five different answers, this is why.
+Texas spans four USDA hardiness zones and over 800 miles north to south. A planting date that works in Amarillo will get your seedlings killed in San Antonio — and vice versa. If you've ever Googled "when to plant [tomatoes](/blog/growing-tomatoes-in-texas-varieties-timing-and-tips) in Texas" and gotten five different answers, this is why.
 
 Your zip code matters more than any generic planting chart. So let's break Texas down zone by zone and give you real dates you can actually use.
 
@@ -32,7 +32,7 @@ These zones tell you your average annual minimum temperature — basically, how 
 
 You have roughly a 180-day growing season. That sounds generous until you factor in the wind, the hail, and the fact that May can still throw a 35°F morning at you.
 
-**Spring planting windows:**
+**[spring planting](/blog/texas-spring-vegetable-garden-what-to-plant-and-when) windows:**
 - **Cool-season crops (lettuce, spinach, peas, radishes):** Direct sow mid-February to mid-March. These can handle light frost.
 - **Warm-season crops (tomatoes, peppers, squash, beans):** Transplant after April 15. Direct-sow beans and squash after April 20.
 - **Hot-season crops (okra, black-eyed peas, melons):** Wait until May 1 when soil temperatures are consistently above 65°F.
@@ -74,7 +74,7 @@ Central Texas gardeners get an enviable growing season — roughly 260 days. The
 - **Squash and beans:** Direct sow March 1–15.
 
 **Fall planting windows:**
-- **Warm-season round two:** Plant a second round of tomatoes (transplants) in mid-July for fall harvest. Use heat-tolerant varieties like 'Solar Fire' or 'HeatMaster.'
+- **Warm-season round two:** Plant a second round of tomatoes (transplants) in mid-July for fall harvest. Use [heat-tolerant](/blog/best-vegetables-to-grow-in-texas-heat) varieties like 'Solar Fire' or 'HeatMaster.'
 - **Cool-season crops:** Start broccoli and cauliflower transplants in September. Direct sow lettuce, kale, and spinach in October.
 
 **Pro Tip:** In Austin and San Antonio, the caliche layer — limestone rock sitting 6 to 18 inches below the surface — limits root depth. Raised beds aren't optional here. They're infrastructure.
@@ -110,7 +110,7 @@ The Valley is practically subtropical. Your growing season is year-round, and yo
 - **Cool-season crops:** October through March.
 - **Warm-season crops:** February through May, then again September through November.
 
-**The summer gap:** June through August is your rest period in the Valley. Temperatures above 100°F, combined with humidity, make most vegetable production impractical. Use this time to solarize soil, add compost, and plan your fall garden.
+**The summer gap:** June through August is your rest period in the Valley. Temperatures above 100°F, combined with humidity, make most vegetable production impractical. Use this time to solarize soil, add compost, and plan your [fall garden](/blog/texas-fall-vegetable-planting-guide).
 
 **Pro Tip:** Valley gardeners should think of winter as their prime growing season. It's counterintuitive if you moved from up north, but your best tomatoes will come from January and February harvests.
 
@@ -129,3 +129,8 @@ The Valley is practically subtropical. Your growing season is year-round, and yo
 ## Your Next Step
 
 Knowing when to plant is the foundation — but Texas gardening throws curveballs that generic advice can't prepare you for. If you want the complete picture — soil prep for every region, variety recommendations tested in Texas conditions, month-by-month planting calendars, and pest management that actually works here — pick up the *Harvest Home Guides: Texas Vegetable Gardening* book. It's the guide we wish we'd had when we started growing in this beautiful, frustrating state.
+
+---
+
+📚 **Want the complete guide?** *[Texas Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

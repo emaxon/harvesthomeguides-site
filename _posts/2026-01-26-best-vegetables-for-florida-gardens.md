@@ -13,11 +13,11 @@ Florida gardening follows different rules than the rest of the country. Summer i
 
 ## The Florida Gardening Paradox
 
-New Florida gardeners make the same mistake: they try to garden like they did up north. Plant tomatoes in May, grow lettuce in summer, follow a traditional spring-to-fall growing calendar.
+New Florida gardeners make the same mistake: they try to garden like they did up north. Plant [tomatoes](/blog/growing-tomatoes-in-florida-humid-climate) in May, grow lettuce in summer, follow a traditional spring-to-fall growing calendar.
 
 This doesn't work in Florida. Here's why:
 
-- **Summer is brutal.** June through September brings extreme heat (90–95°F+), relentless humidity, daily thunderstorms, and explosive pest/disease pressure. Most vegetables struggle.
+- **Summer is brutal.** June through September brings extreme heat (90–95°F+), relentless humidity, daily thunderstorms, and explosive [pest management](/blog/managing-florida-garden-pests-organically)/disease pressure. Most vegetables struggle.
 - **Winter is paradise.** October through March offers mild temperatures (60–80°F), lower humidity, and fewer pests. This is Florida's prime growing season.
 - **The calendar is flipped.** Cool-season crops that northerners grow in spring are Florida's winter crops. Warm-season crops that northerners grow all summer get squeezed into narrow windows in Florida.
 
@@ -74,7 +74,7 @@ For detailed pepper growing info, see our [guide to growing peppers in hot clima
 
 ### 3. Sweet Potatoes
 
-The ultimate Florida summer crop. Sweet potatoes thrive in heat, humidity, and sandy soil — everything Florida has.
+The ultimate Florida summer crop. Sweet potatoes thrive in heat, humidity, and [sandy soil](/blog/vegetables-for-florida-sandy-soil) — everything Florida has.
 
 **When to plant:** Plant slips March–June
 **Best varieties:** Beauregard, Covington, Jewel, Georgia Jet
@@ -213,7 +213,7 @@ A Florida-specific crop that most northern gardeners don't know. The starchy roo
 **When to plant:** Year-round in South Florida, March–April in Central/North
 **Key tip:** Stick 8-inch cuttings in the ground, wait 8–12 months, dig up roots. Almost zero maintenance.
 
-## Florida Year-Round Planting Calendar
+## Florida Year-Round [year-round planting calendar](/blog/year-round-vegetable-gardening-calendar-florida)
 
 | Month | North FL | Central FL | South FL |
 |-------|----------|------------|----------|

@@ -16,7 +16,7 @@ Southeast gardening means choosing varieties that were bred for — or at least 
 Heat alone is manageable. Humidity alone is manageable. Together, they create conditions where:
 
 - **Fungal diseases** explode (powdery mildew, downy mildew, early blight, late blight, anthracnose)
-- **Pollination fails** when nighttime temps stay above 75°F (tomatoes and peppers are especially sensitive)
+- **Pollination fails** when nighttime temps stay above 75°F ([tomatoes](/blog/growing-tomatoes-in-the-south-beat-the-heat) and peppers are especially sensitive)
 - **Soil stays wet** longer, leading to root rot in poorly drained beds
 
 Your variety choices need to account for all three. A tomato that handles Arizona heat will rot on the vine in Alabama humidity. Different game entirely.
@@ -34,7 +34,7 @@ Let's start here because everyone grows tomatoes and everyone in the South has s
 - **Cherokee Purple** — Yes, this heirloom works in the South (it's from Tennessee). Needs good airflow and early planting. Indeterminate, 80 days.
 - **Tropic** — Bred for tropical conditions. Indeterminate, disease-resistant, large fruit.
 
-**Pro Tip:** In zones 8a+, plant tomatoes in early March and aim for harvest before late June. Then plant a second round of heat-tolerant determinates in late July for fall harvest. Trying to keep spring tomatoes alive through August in coastal Georgia is an exercise in suffering.
+**Pro Tip:** In zones 8a+, plant tomatoes in early March and aim for harvest before late June. Then plant a second round of heat-tolerant determinates in late July for [fall gardening](/blog/fall-vegetable-gardening-in-the-southeast) harvest. Trying to keep [spring planting guide](/blog/southeast-spring-vegetable-garden-planting-guide) tomatoes alive through August in coastal Georgia is an exercise in suffering.
 
 ## Peppers: They Actually Like It Here
 
@@ -156,6 +156,11 @@ The Southeast is watermelon country. You have the heat, the season length, and t
 
 ## Build Your Southern Garden Plan
 
-The best Southeast gardens match the right varieties to the right season. That's a puzzle with a lot of pieces — planting dates, variety selection, succession planting, pest management, and soil building in clay or sandy conditions.
+The best Southeast gardens match the right varieties to the right season. That's a puzzle with a lot of pieces — [Southeast planting calendar](/blog/when-to-plant-vegetables-in-the-southeast), variety selection, succession planting, pest management, and soil building in clay or sandy conditions.
 
 Our *Southeast Vegetable Gardening Guide* puts it all together with month-by-month planting schedules, tested variety lists for every zone, and pest and disease management strategies designed for humid Southern conditions. **[Get your copy here →]**
+
+---
+
+📚 **Want the complete guide?** *[Southeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

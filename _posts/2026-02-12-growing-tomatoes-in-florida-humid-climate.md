@@ -20,8 +20,8 @@ Before we get into solutions, let's understand the problems:
 - **Blossom drop.** When nighttime temperatures stay above 75°F, tomato flowers abort. They simply fall off without setting fruit. This is the #1 frustration for Florida tomato growers.
 - **Fungal diseases.** Florida's humidity (often 80–100% in the morning) creates perfect conditions for early blight, late blight, septoria leaf spot, and target spot.
 - **Bacterial wilt.** This soil-borne disease kills plants fast, and there's no chemical treatment. It thrives in warm, wet soil — which describes most of Florida most of the year.
-- **Nematodes.** Root-knot nematodes are endemic in Florida's sandy soil. They damage roots, stunting plants and reducing harvests.
-- **Whiteflies and hornworms.** Pest pressure is intense year-round.
+- **Nematodes.** Root-knot nematodes are endemic in Florida's [sandy soil](/blog/vegetables-for-florida-sandy-soil). They damage roots, stunting plants and reducing harvests.
+- **Whiteflies and hornworms.** [organic [pest management](/blog/managing-florida-garden-pests-organically)](/blog/managing-florida-garden-pests-organically) pressure is intense year-round.
 
 Sound grim? It's not. Every one of these problems has a practical solution.
 
@@ -124,3 +124,8 @@ When temperatures climb, you have a few tricks:
 Growing tomatoes in Florida isn't harder than growing them elsewhere — it's just different. Choose disease-resistant varieties bred for Florida. Plant during the right windows. Prevent disease before it starts. Manage your sandy soil with compost and consistent feeding.
 
 Do these things and you'll harvest more tomatoes than your neighbors who planted a Better Boy in May and wondered why it died by July.
+
+---
+
+📚 **Want the complete guide?** *[Florida Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

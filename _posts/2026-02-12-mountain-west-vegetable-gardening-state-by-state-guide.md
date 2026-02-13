@@ -17,7 +17,7 @@ Colorado's Front Range — Denver, Fort Collins, Colorado Springs — sits betwe
 
 **Denver metro (Zone 5b-6a, ~5,280 ft):** You get about 155 frost-free days. Last frost averages May 4, first fall frost around October 6. That's workable for most vegetables.
 
-**What thrives:** Tomatoes (choose determinates or early varieties like Glacier, Stupice, and Early Girl), peppers (start indoors 8-10 weeks before transplanting), lettuce, spinach, peas, beans, zucchini, and root vegetables. Colorado's intense sun means crops ripen faster than day-count suggests.
+**What thrives:** Tomatoes (choose determinates or early varieties like Glacier, Stupice, and Early Girl), peppers (start indoors 8-10 weeks before trans[planting calendar](/blog/when-to-plant-vegetables-in-the-mountain-west)), lettuce, spinach, peas, beans, zucchini, and root vegetables. Colorado's intense sun means crops ripen faster than day-count suggests.
 
 **Key challenges:** Hail. Colorado's Front Range gets more damaging hail than almost anywhere in the country. Keep row cover or shade cloth ready to deploy. A simple PVC hoop structure can save an entire tomato crop.
 
@@ -35,7 +35,7 @@ Utah splits into two gardening realities: the Wasatch Front urban corridor and e
 
 **St. George and southern Utah (Zone 8b-9a):** Essentially desert Southwest gardening. Plant warm-season crops in March, take a break in July-August heat, and plant again in September.
 
-**Cache Valley and higher elevations:** Short seasons (90-120 days) with reliable cold. Grow what works: potatoes, peas, lettuce, brassicas, root crops, and short-season tomatoes.
+**Cache Valley and higher elevations:** [short season](/blog/mountain-west-short-season-gardening)s (90-120 days) with reliable cold. Grow what works: potatoes, peas, lettuce, brassicas, root crops, and short-season tomatoes.
 
 ## Montana: Two States in One
 
@@ -91,3 +91,8 @@ Regardless of which state you're in, these principles apply across the region:
 **Respect the UV.** Intense high-altitude sun can sunscald fruit and burn transplants. Use shade cloth (30%) during the hottest afternoons in July and August, and harden off transplants gradually over 7-10 days.
 
 The Mountain West rewards gardeners who pay attention to their specific elevation, exposure, and microclimate. Don't fight your conditions — work with them, choose adapted varieties, and invest in season extension. The results are worth it.
+
+---
+
+📚 **Want the complete guide?** *[Mountain West Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

@@ -17,7 +17,7 @@ Every spring garden follows the same basic order, just shifted by zone:
 
 1. **Hardy cool-season crops** (tolerate frost): peas, spinach, kale, onions
 2. **Semi-hardy cool-season crops** (tolerate light frost): lettuce, broccoli, cabbage, carrots
-3. **Warm-season crops** (frost kills them): tomatoes, peppers, squash, beans
+3. **Warm-season crops** (frost kills them): [tomatoes](/blog/growing-tomatoes-in-the-south-beat-the-heat), peppers, squash, beans
 4. **Hot-season crops** (need warm soil): okra, sweet potatoes, melons, Southern peas
 
 Your zone determines *when* each phase starts. Let's break it down.
@@ -52,7 +52,7 @@ You're practically subtropical. Your spring starts before most of the country fi
 - Last chance for spring bean and squash plantings
 - Cool-season crops finishing up — harvest everything before heat arrives
 
-**Pro Tip:** Zone 9a gardeners, your cool-season window is *short*. Broccoli planted after February 1st is racing against 80°F days in April. Start early or skip it and plant heavily in fall instead.
+**Pro Tip:** Zone 9a gardeners, your cool-season window is *short*. Broccoli planted after February 1st is racing against 80°F days in April. Start early or skip it and plant heavily in [fall planting](/blog/fall-vegetable-gardening-in-the-southeast) instead.
 
 ## Zone 8b: Southern Georgia, Coastal South Carolina, Gulf Coast Alabama
 
@@ -235,3 +235,8 @@ Harden off all transplants for 7–10 days before planting outside. Start with a
 A productive spring garden in the Southeast isn't about planting everything on one weekend in April. It's a rolling sequence that starts weeks (or months) before your last frost and continues through June. Get the timing right for your zone, and you'll be harvesting from March through November.
 
 Our *Southeast Vegetable Gardening Guide* includes printable planting calendars for every zone from 6b to 9a, seed starting schedules, and month-by-month task lists. It's the full playbook for every season — not just spring. **[Get your copy here →]**
+
+---
+
+📚 **Want the complete guide?** *[Southeast Vegetable Gardening](/books/)* covers everything you need — planting calendars, variety picks, soil strategies, and more — all tailored to your region. [Browse the Harvest Home Guides series →](/books/)
+

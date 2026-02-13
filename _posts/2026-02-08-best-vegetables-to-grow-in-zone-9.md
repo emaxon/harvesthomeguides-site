@@ -15,8 +15,8 @@ Zone 9 is a vegetable gardener's paradise — with the right approach. Long grow
 
 USDA Hardiness Zone 9 covers a wide swath of the southern United States, including:
 
-- **Zone 9a** (20–25°F minimum): Parts of Texas, Louisiana, Mississippi, Alabama, Georgia, Florida, Arizona, and California
-- **Zone 9b** (25–30°F minimum): Southern Texas, South Florida, coastal areas, and low-desert regions
+- **Zone 9a** (20–25°F minimum): Parts of [Texas](/blog/when-to-plant-vegetables-in-texas-zone-by-zone-guide), Louisiana, Mississippi, Alabama, Georgia, [Florida](/blog/best-vegetables-for-florida-gardens), Arizona, and California
+- **Zone 9b** (25–30°F minimum): Southern Texas, South Florida, coastal areas, and low-[desert gardening](/blog/desert-vegetable-gardening-what-actually-grows-110f) regions
 
 Zone 9 gardeners enjoy 250–365 frost-free days per year. But this comes with challenges: extreme summer heat, high humidity (in the Southeast), drought (in the Southwest), and pest pressure that never fully goes away because winter never gets cold enough to kill everything.
 

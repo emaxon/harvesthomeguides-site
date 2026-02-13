@@ -121,7 +121,7 @@ As a beginner in the South, start with crops that are forgiving, productive, and
 
 ### Easy Spring/Summer Crops
 
-1. **Cherry Tomatoes** — Far easier than large tomatoes. Sweet 100 or Sun Gold will produce hundreds of tomatoes on a single plant. Transplant after last frost.
+1. **Cherry [tomatoes](/blog/growing-tomatoes-in-the-south-beat-the-heat)** — Far easier than large tomatoes. Sweet 100 or Sun Gold will produce hundreds of tomatoes on a single plant. Transplant after last frost.
 
 2. **Peppers** — More heat-tolerant than tomatoes. Jalapeños and bell peppers are easy and productive. Transplant after last frost.
 
